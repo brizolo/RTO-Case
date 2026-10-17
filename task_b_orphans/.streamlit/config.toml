@@ -1,0 +1,6 @@
+[theme]
+base = "light"
+primaryColor = "#FFC244"            # Glovo yellow: buttons, toggles, selection
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F4F4F2" # sidebar and table headers
+textColor = "#1D1D1B"

@@ -1,0 +1,10 @@
+# secrets
+.env
+*.key
+
+# local state and caches
+state.json
+agent_actions.db
+__pycache__/
+.DS_Store
+.venv/

@@ -1,0 +1,4 @@
+question_id,market,topic,outcome,reason,suggested_fix
+Q-0412,MR,reapply,publish,passed every check,
+Q-0438,MR,account_use,hold,"contradicts the KB: The answer allows someone else to use the courier's account, which directly violates the rule that accounts are personal and belong only to the registered person. KB says: ""Accounts are personal. Each account belongs to the person who registered it and passed the document check.""",
+Q-0463,MR,training_cost,publish,passed every check,

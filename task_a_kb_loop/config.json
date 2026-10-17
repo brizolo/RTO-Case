@@ -1,0 +1,32 @@
+{
+  "_comment": "Edit here, not in code.",
+  "agents": {
+    "MR": {
+      "agent_env": "ELEVENLABS_AGENT_ID_MR",
+      "kb_text": "kb_meridia.txt",
+      "language": "en"
+    }
+  },
+  "banned": {
+    "employee": "courier",
+    "employees": "couriers",
+    "employer": "the platform",
+    "our riders": "couriers",
+    "our couriers": "couriers",
+    "shift manager": "support team",
+    "salary": "earnings",
+    "salaried": "earnings-based"
+  },
+  "topics": {
+    "account_use": "my account|brother|someone else",
+    "reapply": "rejected|apply again|sign up again",
+    "bag_cost": "\\bbag\\b|deposit",
+    "payday": "when do i get paid|which day.*money|money arrive",
+    "missing_payout": "payout didn.t|didn.t arrive",
+    "no_show": "don.t show|no.?show|book a slot",
+    "phone": "phone|android|iphone|ios",
+    "city_change": "\\bcity\\b|\\bmoved?\\b",
+    "vehicle_age": "age limit|e-?bike",
+    "training_cost": "training|session"
+  }
+}

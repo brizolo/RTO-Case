@@ -1,0 +1,47 @@
+
+{
+  "_comment": "Capacity assumptions from B1. Edit here, not in code. Replace with real data per market.",
+  "vehicles": [
+    {
+      "name": "bike",
+      "conservative_kg": 9,
+      "optimistic_kg": 12,
+      "space_l": 48,
+      "max_item_kg": 9
+    },
+    {
+      "name": "e-bike",
+      "conservative_kg": 9,
+      "optimistic_kg": 15,
+      "space_l": 50,
+      "max_item_kg": 10
+    },
+    {
+      "name": "motorbike",
+      "conservative_kg": 12,
+      "optimistic_kg": 20,
+      "space_l": 60,
+      "max_item_kg": 12
+    },
+    {
+      "name": "car",
+      "conservative_kg": 40,
+      "optimistic_kg": 80,
+      "space_l": 300,
+      "max_item_kg": 15
+    }
+  ],
+  "carry_limit_kg": 15,
+  "size_class_litres": {
+    "small": 1,
+    "medium": 3,
+    "large": 10,
+    "bulky": 150
+  },
+  "litres_per_kg_groceries": 1.2,
+  "unknown_item_kg": 1,
+  "max_guessed_share": 0.3,
+  "abnormal_quantity": 50,
+  "high_value_cash_percentile": 0.8,
+  "_comment_bulky": "Bulky items (TV, mattress, bike) count as 150 L and can only go by car."
+}

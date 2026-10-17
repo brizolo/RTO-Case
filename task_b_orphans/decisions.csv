@@ -1,0 +1,931 @@
+order_id,country,vertical,decision,needs_human,est_kg,est_litres,max_item_kg,guessed_share,flags,handling_notes,reason
+862376000,PT,Q_COMMERCE,e-bike,True,14.7,18,1.0,0.0,,,14.7 kg / ~18 L; 20/21 lines weighed from item names; 14.7 kg is between e-bike's safe 9 kg and max 15 kg
+423363774,RS,Q_COMMERCE,split: car + car,True,123.8,149,1.0,0.0,"abnormal quantity, high-value cash",keep upright,123.8 kg / ~149 L; 5/6 lines weighed from item names; over one car's 80 kg / 300 L
+452306817,MA,FOOD,bike,False,0.6,3,0.2,0.0,,keep upright,0.6 kg / ~3 L; 0/3 lines weighed from item names
+503061424,RO,Q_COMMERCE,car,False,2.0,151,1.5,0.0,,,2.0 kg / ~151 L; 2/3 lines weighed from item names
+629832888,UA,Q_COMMERCE,bike,False,0.1,2,0.1,0.0,,,0.1 kg / ~2 L; 4/6 lines weighed from item names
+578199580,UA,FOOD,bike,False,3.5,24,0.5,0.0,,keep upright,3.5 kg / ~24 L; 0/2 lines weighed from item names
+736923042,NG,Q_COMMERCE,bike,False,0.9,1,0.5,0.0,,,0.9 kg / ~1 L; 1/1 lines weighed from item names
+861585951,NG,FOOD,bike,False,2.0,10,2.0,0.0,,keep upright,2.0 kg / ~10 L; 0/1 lines weighed from item names
+933868786,GE,Q_COMMERCE,call customer,True,31.6,175,20.5,0.0,heavy item,keep upright,"31.6 kg / ~175 L; 0/20 lines weighed from item names; 'ეისი ლიმონი 10x2ლ' is 20 kg, over the 15 kg carry limit"
+422335521,RO,Q_COMMERCE,bike,True,4.9,15,0.8,0.0,age-restricted (ID check),,4.9 kg / ~15 L; 3/5 lines weighed from item names
+615637052,PL,Q_COMMERCE,bike,False,7.3,9,1.0,0.0,,,7.3 kg / ~9 L; 18/18 lines weighed from item names
+860192079,TN,Q_COMMERCE,bike,False,1.0,27,0.2,0.0,,,1.0 kg / ~27 L; 0/8 lines weighed from item names
+752651479,RO,Q_COMMERCE,motorbike,True,18.2,22,12.0,0.0,,,18.2 kg / ~22 L; 12/12 lines weighed from item names; 18.2 kg is between motorbike's safe 12 kg and max 20 kg
+626621555,PL,Q_COMMERCE,bike,True,10.3,13,1.0,0.0,,keep upright,10.3 kg / ~13 L; 12/14 lines weighed from item names; 10.3 kg is between bike's safe 9 kg and max 12 kg
+587330147,PL,Q_COMMERCE,bike,True,6.3,8,1.5,0.0,age-restricted (ID check),,6.3 kg / ~8 L; 5/5 lines weighed from item names
+448591984,NG,Q_COMMERCE,car,False,38.0,48,9.0,0.0,,,38.0 kg / ~48 L; 3/4 lines weighed from item names
+375712613,RO,Q_COMMERCE,bike,False,4.5,11,1.0,0.0,,keep upright,4.5 kg / ~11 L; 7/10 lines weighed from item names
+833555674,UA,FOOD,bike,False,0.7,2,0.4,0.0,,keep upright,0.7 kg / ~2 L; 0/2 lines weighed from item names
+852147280,RO,Q_COMMERCE,bike,False,1.0,3,1.0,0.0,,keep upright,1.0 kg / ~3 L; 0/1 lines weighed from item names
+311993457,UA,FOOD,bike,False,1.4,2,0.9,0.0,,,1.4 kg / ~2 L; 2/2 lines weighed from item names
+626954663,UA,Q_COMMERCE,bike,False,3.1,4,0.2,0.0,,,3.1 kg / ~4 L; 7/7 lines weighed from item names
+760099112,RO,Q_COMMERCE,motorbike,True,16.2,20,5.0,0.0,,,16.2 kg / ~20 L; 13/14 lines weighed from item names; 16.2 kg is between motorbike's safe 12 kg and max 20 kg
+822914992,PL,Q_COMMERCE,bike,False,7.2,10,2.0,0.0,,keep upright,7.2 kg / ~10 L; 10/13 lines weighed from item names
+403047718,PT,Q_COMMERCE,motorbike,True,16.0,24,3.5,0.0,,,16.0 kg / ~24 L; 4/5 lines weighed from item names; 16.0 kg is between motorbike's safe 12 kg and max 20 kg
+925994847,UA,Q_COMMERCE,bike,False,0.3,0,0.1,0.0,,,0.3 kg / ~0 L; 4/4 lines weighed from item names
+845260292,RO,Q_COMMERCE,e-bike,True,13.9,20,9.0,0.0,,,13.9 kg / ~20 L; 10/13 lines weighed from item names; 13.9 kg is between e-bike's safe 9 kg and max 15 kg
+697342592,RO,Q_COMMERCE,bike,False,0.9,1,0.1,0.0,,,0.9 kg / ~1 L; 2/2 lines weighed from item names
+578564956,RO,Q_COMMERCE,car,True,27.1,39,9.0,0.0,age-restricted (ID check),,27.1 kg / ~39 L; 17/21 lines weighed from item names
+671529316,NG,FOOD,bike,False,3.3,6,0.7,0.0,,keep upright,3.3 kg / ~6 L; 0/5 lines weighed from item names
+552097687,HR,Q_COMMERCE,bike,False,4.2,13,1.5,0.0,,,4.2 kg / ~13 L; 2/10 lines weighed from item names
+599048334,NG,Q_COMMERCE,bike,False,3.1,11,0.6,0.0,,,3.1 kg / ~11 L; 4/6 lines weighed from item names
+920042252,TN,Q_COMMERCE,bike,False,8.0,16,1.0,0.0,,,8.0 kg / ~16 L; 9/11 lines weighed from item names
+414329334,TN,Q_COMMERCE,bike,False,5.0,7,1.0,0.0,,,5.0 kg / ~7 L; 20/21 lines weighed from item names
+758844724,PL,Q_COMMERCE,bike,False,3.8,6,0.7,0.0,,,3.8 kg / ~6 L; 12/13 lines weighed from item names
+351242025,UA,Q_COMMERCE,car,True,73.9,89,1.0,0.0,abnormal quantity,,73.9 kg / ~89 L; 6/6 lines weighed from item names; 73.9 kg is between car's safe 40 kg and max 80 kg
+512334536,PL,FOOD,bike,False,3.0,11,0.4,0.0,,keep upright,3.0 kg / ~11 L; 0/7 lines weighed from item names
+495253527,KG,FOOD,bike,False,1.2,3,1.2,0.0,,,1.2 kg / ~3 L; 0/1 lines weighed from item names
+581757506,KE,Q_COMMERCE,bike,True,1.5,2,0.8,0.0,age-restricted (ID check),,1.5 kg / ~2 L; 2/2 lines weighed from item names
+938185323,BG,Q_COMMERCE,bike,True,9.1,12,1.5,0.0,,,9.1 kg / ~12 L; 7/8 lines weighed from item names; 9.1 kg is between bike's safe 9 kg and max 12 kg
+352927969,PT,Q_COMMERCE,bike,True,10.6,15,1.5,0.0,,,10.6 kg / ~15 L; 7/9 lines weighed from item names; 10.6 kg is between bike's safe 9 kg and max 12 kg
+964971978,PT,Q_COMMERCE,car,False,13.4,16,13.0,0.0,,,13.4 kg / ~16 L; 3/3 lines weighed from item names
+557120837,NG,Q_COMMERCE,motorbike,True,18.0,22,0.5,0.0,,,18.0 kg / ~22 L; 1/1 lines weighed from item names; 18.0 kg is between motorbike's safe 12 kg and max 20 kg
+361576557,PL,Q_COMMERCE,bike,False,5.5,7,2.0,0.0,,,5.5 kg / ~7 L; 9/10 lines weighed from item names
+728494190,UA,FOOD,bike,False,1.9,4,0.5,0.0,,,1.9 kg / ~4 L; 3/4 lines weighed from item names
+994097808,KE,Q_COMMERCE,call customer,True,29.1,35,19.0,0.0,heavy item,,"29.1 kg / ~35 L; 4/4 lines weighed from item names; 'AQUAMIST Blue Disposable Water, 19L' is 19 kg, over the 15 kg carry limit"
+725300549,UA,Q_COMMERCE,bike,False,6.2,7,1.0,0.0,,,6.2 kg / ~7 L; 4/4 lines weighed from item names
+904426006,CI,Q_COMMERCE,bike,False,7.3,10,1.2,0.0,,,7.3 kg / ~10 L; 5/6 lines weighed from item names
+430650190,TN,Q_COMMERCE,bike,True,10.2,15,1.0,0.0,,keep upright,10.2 kg / ~15 L; 8/12 lines weighed from item names; 10.2 kg is between bike's safe 9 kg and max 12 kg
+353512287,TN,Q_COMMERCE,bike,False,5.2,7,1.2,0.0,,,5.2 kg / ~7 L; 6/16 lines weighed from item names
+562924817,PL,Q_COMMERCE,bike,True,8.0,10,2.0,0.0,zero total,,8.0 kg / ~10 L; 21/21 lines weighed from item names
+816322219,PL,Q_COMMERCE,bike,True,9.9,13,1.0,0.0,,,9.9 kg / ~13 L; 7/9 lines weighed from item names; 9.9 kg is between bike's safe 9 kg and max 12 kg
+525172904,RO,Q_COMMERCE,car,True,32.5,39,1.0,0.0,abnormal quantity,,32.5 kg / ~39 L; 5/6 lines weighed from item names
+441087209,KE,FOOD,bike,True,11.5,40,0.6,0.0,,keep upright,11.5 kg / ~40 L; 0/17 lines weighed from item names; 11.5 kg is between bike's safe 9 kg and max 12 kg
+482241232,NG,FOOD,bike,False,1.2,3,0.4,0.0,,keep upright,1.1 kg / ~3 L; 0/3 lines weighed from item names
+928263835,CI,FOOD,bike,False,2.6,12,0.7,0.0,,keep upright,2.6 kg / ~12 L; 0/2 lines weighed from item names
+670845808,PL,Q_COMMERCE,bike,False,7.8,9,1.5,0.0,,,7.8 kg / ~9 L; 15/15 lines weighed from item names
+349101274,PT,Q_COMMERCE,e-bike,True,13.4,17,1.5,0.0,age-restricted (ID check),,13.3 kg / ~17 L; 15/16 lines weighed from item names; 13.3 kg is between e-bike's safe 9 kg and max 15 kg
+633240329,PL,Q_COMMERCE,car,False,15.8,151,15.0,0.0,,,15.8 kg / ~151 L; 2/3 lines weighed from item names
+676476171,KE,Q_COMMERCE,bike,True,10.7,14,1.0,0.0,,,10.7 kg / ~14 L; 16/18 lines weighed from item names; 10.7 kg is between bike's safe 9 kg and max 12 kg
+939881654,RS,Q_COMMERCE,bike,False,1.5,2,0.8,0.0,,,1.5 kg / ~2 L; 2/3 lines weighed from item names
+983423301,RO,Q_COMMERCE,car,False,36.0,43,15.0,0.0,,,36.0 kg / ~43 L; 3/3 lines weighed from item names
+872671771,CI,Q_COMMERCE,bike,False,8.3,10,1.5,0.0,,,8.3 kg / ~10 L; 10/11 lines weighed from item names
+577421875,PT,Q_COMMERCE,bike,True,11.3,16,1.5,0.0,,,11.3 kg / ~16 L; 8/9 lines weighed from item names; 11.3 kg is between bike's safe 9 kg and max 12 kg
+590857857,UA,FOOD,bike,False,1.4,3,0.3,0.0,,keep upright,1.4 kg / ~3 L; 4/5 lines weighed from item names
+657997980,PL,Q_COMMERCE,bike,False,6.0,7,1.5,0.0,,,6.0 kg / ~7 L; 12/12 lines weighed from item names
+331985284,KE,Q_COMMERCE,bike,True,7.0,8,1.0,0.0,high-value cash,,7.0 kg / ~8 L; 5/5 lines weighed from item names
+989033657,UA,FOOD,bike,False,1.6,2,0.5,0.0,,,1.6 kg / ~2 L; 4/4 lines weighed from item names
+336066465,UA,Q_COMMERCE,bike,True,1.4,5,0.5,0.0,zero total,,1.4 kg / ~5 L; 4/8 lines weighed from item names
+612429448,PL,Q_COMMERCE,motorbike,True,15.4,19,1.0,0.0,,,15.4 kg / ~19 L; 4/4 lines weighed from item names; 15.4 kg is between motorbike's safe 12 kg and max 20 kg
+459429804,PL,Q_COMMERCE,bike,False,6.3,8,1.0,0.0,,,6.3 kg / ~8 L; 9/9 lines weighed from item names
+951909259,PL,Q_COMMERCE,car,False,33.6,46,1.0,0.0,,,33.6 kg / ~46 L; 10/12 lines weighed from item names
+389667053,PL,Q_COMMERCE,bike,False,4.3,5,1.0,0.0,,keep upright,4.3 kg / ~5 L; 7/8 lines weighed from item names
+435729564,NG,Q_COMMERCE,bike,False,6.6,8,0.3,0.0,,,6.6 kg / ~8 L; 1/1 lines weighed from item names
+892438771,UG,Q_COMMERCE,bike,True,8.1,12,2.0,0.0,age-restricted (ID check),,8.1 kg / ~12 L; 4/6 lines weighed from item names
+990626023,RO,Q_COMMERCE,bike,False,6.7,8,2.0,0.0,,,6.7 kg / ~8 L; 3/3 lines weighed from item names
+515725721,NG,FOOD,bike,False,1.6,6,0.8,0.0,,,1.6 kg / ~6 L; 0/1 lines weighed from item names
+419526323,PL,Q_COMMERCE,e-bike,True,13.0,16,2.5,0.0,zero total,keep upright,13.0 kg / ~16 L; 21/22 lines weighed from item names; 13.0 kg is between e-bike's safe 9 kg and max 15 kg
+974258940,NG,FOOD,bike,False,4.7,15,0.8,0.0,,,4.7 kg / ~15 L; 0/2 lines weighed from item names
+301691921,PT,Q_COMMERCE,bike,True,10.3,12,3.0,0.0,,,10.3 kg / ~12 L; 10/10 lines weighed from item names; 10.3 kg is between bike's safe 9 kg and max 12 kg
+793141097,RO,Q_COMMERCE,bike,False,1.0,3,1.0,0.0,,keep upright,1.0 kg / ~3 L; 0/1 lines weighed from item names
+850475734,RO,Q_COMMERCE,bike,False,6.4,8,2.0,0.0,,,6.4 kg / ~8 L; 3/3 lines weighed from item names
+387116110,RS,Q_COMMERCE,bike,False,0.0,1,0.1,0.0,,,0.1 kg / ~1 L; 0/1 lines weighed from item names
+386654257,PL,Q_COMMERCE,split: car + car + car,True,202.5,243,2.0,0.0,abnormal quantity,,202.5 kg / ~243 L; 6/6 lines weighed from item names; over one car's 80 kg / 300 L
+989698151,NG,FOOD,bike,False,1.8,4,0.6,0.0,,keep upright,1.8 kg / ~4 L; 0/4 lines weighed from item names
+522673882,UA,FOOD,bike,False,1.8,5,1.2,0.0,,,1.8 kg / ~5 L; 0/3 lines weighed from item names
+391622712,RO,Q_COMMERCE,bike,True,10.6,13,8.5,0.0,,,10.6 kg / ~13 L; 3/3 lines weighed from item names; 10.6 kg is between bike's safe 9 kg and max 12 kg
+855960924,PL,Q_COMMERCE,bike,False,1.5,2,0.1,0.0,,,1.5 kg / ~2 L; 5/5 lines weighed from item names
+350395078,RS,Q_COMMERCE,bike,True,9.3,11,2.0,0.0,,keep upright,9.3 kg / ~11 L; 7/8 lines weighed from item names; 9.3 kg is between bike's safe 9 kg and max 12 kg
+805706351,GE,Q_COMMERCE,bike,False,3.0,20,0.1,0.0,,,3.0 kg / ~20 L; 0/2 lines weighed from item names
+325438568,RO,Q_COMMERCE,bike,False,3.4,12,1.0,0.0,,,3.4 kg / ~12 L; 0/5 lines weighed from item names
+417262570,GE,Q_COMMERCE,bike,False,5.7,27,1.0,0.0,,keep upright,5.7 kg / ~27 L; 0/7 lines weighed from item names
+494565138,CI,Q_COMMERCE,motorbike,True,16.4,20,1.5,0.0,,,16.4 kg / ~20 L; 7/7 lines weighed from item names; 16.4 kg is between motorbike's safe 12 kg and max 20 kg
+817705651,PT,Q_COMMERCE,bike,False,6.5,10,1.5,0.0,,,6.5 kg / ~10 L; 9/10 lines weighed from item names
+504306338,NG,Q_COMMERCE,bike,False,4.0,27,0.1,0.0,,,4.0 kg / ~27 L; 0/1 lines weighed from item names
+728086252,RO,FOOD,bike,False,1.8,12,0.5,0.0,,,1.8 kg / ~12 L; 0/3 lines weighed from item names
+863612622,RO,FOOD,bike,False,2.9,4,0.5,0.0,,,2.9 kg / ~4 L; 1/1 lines weighed from item names
+690352867,RO,Q_COMMERCE,e-bike,True,14.0,20,1.0,0.0,"age-restricted (ID check), high-value cash",keep upright,14.0 kg / ~20 L; 16/20 lines weighed from item names; 14.0 kg is between e-bike's safe 9 kg and max 15 kg
+443173220,PL,Q_COMMERCE,bike,False,8.3,10,1.0,0.0,,,8.3 kg / ~10 L; 14/14 lines weighed from item names
+456469954,CI,FOOD,bike,False,3.5,16,0.8,0.0,,keep upright,3.5 kg / ~16 L; 0/4 lines weighed from item names
+683392445,PL,Q_COMMERCE,bike,True,10.0,12,0.5,0.0,age-restricted (ID check),,10.0 kg / ~12 L; 1/1 lines weighed from item names; 10.0 kg is between bike's safe 9 kg and max 12 kg
+959540372,PL,Q_COMMERCE,bike,False,4.8,6,2.5,0.0,,,4.8 kg / ~6 L; 9/10 lines weighed from item names
+497770934,NG,Q_COMMERCE,bike,False,1.0,2,0.5,0.0,,,1.0 kg / ~2 L; 4/5 lines weighed from item names
+675986897,PL,Q_COMMERCE,bike,False,8.8,12,1.0,0.0,,,8.8 kg / ~12 L; 5/7 lines weighed from item names
+636564772,CI,Q_COMMERCE,car,False,20.7,32,4.0,0.0,,,20.7 kg / ~32 L; 6/10 lines weighed from item names
+506207659,RO,FOOD,bike,False,2.6,10,0.4,0.0,,keep upright,2.6 kg / ~10 L; 2/7 lines weighed from item names
+964772792,PT,Q_COMMERCE,bike,False,6.3,21,1.5,0.0,,,6.3 kg / ~21 L; 6/8 lines weighed from item names
+870012076,PL,Q_COMMERCE,bike,False,2.0,10,0.3,0.0,,,2.0 kg / ~10 L; 5/9 lines weighed from item names
+459663771,KG,FOOD,bike,False,3.4,9,1.0,0.0,,keep upright,3.4 kg / ~9 L; 1/5 lines weighed from item names
+913591960,NG,FOOD,bike,False,3.3,9,0.8,0.0,,,3.3 kg / ~9 L; 0/7 lines weighed from item names
+476281370,NG,FOOD,bike,False,2.6,13,0.7,0.0,,keep upright,2.6 kg / ~13 L; 0/5 lines weighed from item names
+704838084,NG,Q_COMMERCE,bike,False,4.4,5,1.0,0.0,,,4.4 kg / ~5 L; 7/7 lines weighed from item names
+868737606,RO,Q_COMMERCE,bike,False,4.6,6,1.0,0.0,,,4.6 kg / ~6 L; 10/12 lines weighed from item names
+800774716,PL,Q_COMMERCE,bike,False,3.9,6,1.8,0.0,,,3.9 kg / ~6 L; 7/9 lines weighed from item names
+594380994,GE,FOOD,bike,False,2.2,16,1.5,0.0,,keep upright,2.2 kg / ~16 L; 1/3 lines weighed from item names
+357063829,RO,Q_COMMERCE,motorbike,True,18.5,22,2.5,0.0,,,18.5 kg / ~22 L; 2/2 lines weighed from item names; 18.5 kg is between motorbike's safe 12 kg and max 20 kg
+549341380,PL,Q_COMMERCE,motorbike,True,19.9,26,5.0,0.0,,,19.9 kg / ~26 L; 14/15 lines weighed from item names; 19.9 kg is between motorbike's safe 12 kg and max 20 kg
+955356304,UA,Q_COMMERCE,e-bike,True,15.0,18,0.5,0.0,,,15.0 kg / ~18 L; 1/1 lines weighed from item names; 15.0 kg is between e-bike's safe 9 kg and max 15 kg
+962527154,PL,Q_COMMERCE,bike,False,1.3,11,0.3,0.0,,,1.3 kg / ~11 L; 0/3 lines weighed from item names
+419547754,NG,FOOD,bike,False,0.6,3,0.6,0.0,,keep upright,0.6 kg / ~3 L; 0/1 lines weighed from item names
+513810616,NG,FOOD,bike,False,2.0,10,2.0,0.0,,,2.0 kg / ~10 L; 0/1 lines weighed from item names
+623509112,GE,Q_COMMERCE,bike,False,1.5,10,1.5,0.0,,keep upright,1.5 kg / ~10 L; 0/1 lines weighed from item names
+933849202,RO,Q_COMMERCE,e-bike,True,12.5,26,5.0,0.0,age-restricted (ID check),keep upright,12.5 kg / ~26 L; 5/11 lines weighed from item names; 12.5 kg is between e-bike's safe 9 kg and max 15 kg
+362607261,PL,Q_COMMERCE,bike,False,8.1,10,1.0,0.0,,keep upright,8.1 kg / ~10 L; 22/24 lines weighed from item names
+873764488,HR,Q_COMMERCE,bike,False,1.1,4,0.5,0.0,,,1.1 kg / ~4 L; 1/5 lines weighed from item names
+530403734,RO,Q_COMMERCE,bike,False,0.8,1,0.1,0.0,,,0.8 kg / ~1 L; 1/1 lines weighed from item names
+949307877,CI,Q_COMMERCE,bike,False,7.3,10,1.0,0.0,,,7.3 kg / ~10 L; 6/8 lines weighed from item names
+893598668,BG,FOOD,bike,False,3.1,11,0.6,0.0,,,3.1 kg / ~11 L; 0/9 lines weighed from item names
+463851979,RO,Q_COMMERCE,car,False,32.5,39,6.0,0.0,,,32.5 kg / ~39 L; 3/3 lines weighed from item names
+674754518,NG,Q_COMMERCE,e-bike,True,14.6,24,1.8,0.0,,keep upright,14.6 kg / ~24 L; 1/2 lines weighed from item names; 14.6 kg is between e-bike's safe 9 kg and max 15 kg
+432423951,PL,Q_COMMERCE,bike,False,1.7,2,0.5,0.0,,,1.7 kg / ~2 L; 9/9 lines weighed from item names
+980791626,PL,Q_COMMERCE,bike,False,2.0,2,0.1,0.0,,,2.0 kg / ~2 L; 1/1 lines weighed from item names
+766813852,NG,Q_COMMERCE,car,True,37.5,45,0.8,0.0,abnormal quantity,,37.5 kg / ~45 L; 1/1 lines weighed from item names
+704712950,PT,Q_COMMERCE,bike,False,0.6,1,0.5,0.0,,,0.6 kg / ~1 L; 4/4 lines weighed from item names
+551222588,PT,Q_COMMERCE,bike,True,1.3,5,0.2,0.0,age-restricted (ID check),,1.3 kg / ~5 L; 2/3 lines weighed from item names
+732115049,PL,FOOD,bike,True,6.6,33,0.6,0.0,zero total,,6.6 kg / ~33 L; 0/5 lines weighed from item names
+617924469,NG,Q_COMMERCE,bike,False,4.2,6,0.5,0.0,,,4.2 kg / ~6 L; 8/10 lines weighed from item names
+803183984,RO,Q_COMMERCE,bike,False,2.3,3,0.5,0.0,,keep upright,2.3 kg / ~3 L; 15/16 lines weighed from item names
+661960233,PT,Q_COMMERCE,bike,False,8.1,11,2.0,0.0,,keep upright,8.1 kg / ~11 L; 7/8 lines weighed from item names
+973869679,UA,Q_COMMERCE,bike,True,1.4,11,0.4,0.0,age-restricted (ID check),,1.4 kg / ~11 L; 1/2 lines weighed from item names
+606600754,NG,FOOD,bike,False,2.2,4,0.6,0.0,,,2.2 kg / ~4 L; 0/4 lines weighed from item names
+897860597,PL,Q_COMMERCE,bike,True,5.0,6,0.5,0.0,age-restricted (ID check),,5.0 kg / ~6 L; 4/4 lines weighed from item names
+913604354,NG,FOOD,bike,False,2.4,15,0.2,0.0,,,2.4 kg / ~15 L; 0/4 lines weighed from item names
+584670987,NG,Q_COMMERCE,call customer,True,100.8,121,50.0,0.0,heavy item,,"100.8 kg / ~121 L; 3/3 lines weighed from item names; 'Mama Gold Rice 50kg' is 50 kg, over the 15 kg carry limit"
+553464770,MA,Q_COMMERCE,bike,False,4.5,21,2.0,0.0,,keep upright,4.5 kg / ~21 L; 2/3 lines weighed from item names
+996326798,NG,FOOD,bike,False,1.5,2,0.5,0.0,,,1.5 kg / ~2 L; 1/1 lines weighed from item names
+510567179,RO,Q_COMMERCE,bike,False,6.6,9,1.0,0.0,,,6.6 kg / ~9 L; 9/12 lines weighed from item names
+316079528,MA,FOOD,bike,False,2.4,4,0.6,0.0,,keep upright,2.4 kg / ~4 L; 0/3 lines weighed from item names
+802990958,UA,Q_COMMERCE,call customer,True,16.7,150,16.5,0.0,heavy item,,"16.7 kg / ~150 L; 2/3 lines weighed from item names; 'Електросамокат Xiaomi Electric Scooter 4' is 16 kg, over the 15 kg carry limit"
+500659252,NG,Q_COMMERCE,car,True,44.9,55,1.0,0.0,abnormal quantity,,44.9 kg / ~55 L; 9/10 lines weighed from item names; 44.9 kg is between car's safe 40 kg and max 80 kg
+862047330,RO,Q_COMMERCE,bike,False,1.5,2,0.2,0.0,,,1.5 kg / ~2 L; 6/6 lines weighed from item names
+508176336,PL,Q_COMMERCE,bike,False,3.9,7,0.5,0.0,,,3.9 kg / ~7 L; 6/7 lines weighed from item names
+659132352,PT,Q_COMMERCE,bike,False,2.9,4,0.4,0.0,,,2.9 kg / ~4 L; 3/4 lines weighed from item names
+770000593,MA,Q_COMMERCE,bike,False,3.9,39,0.6,0.0,,,3.9 kg / ~39 L; 0/9 lines weighed from item names
+302236042,NG,Q_COMMERCE,bike,False,6.2,25,0.6,0.0,,,6.2 kg / ~25 L; 2/3 lines weighed from item names
+758687379,PL,Q_COMMERCE,car,False,36.8,44,9.0,0.0,,,36.8 kg / ~44 L; 4/4 lines weighed from item names
+302921384,BG,Q_COMMERCE,e-bike,True,12.3,17,2.5,0.0,,,12.3 kg / ~17 L; 15/16 lines weighed from item names; 12.3 kg is between e-bike's safe 9 kg and max 15 kg
+835480288,PL,Q_COMMERCE,bike,False,4.4,8,1.5,0.0,,,4.3 kg / ~8 L; 8/11 lines weighed from item names
+675014414,PL,Q_COMMERCE,call customer,True,50.2,60,25.0,0.0,heavy item,,"50.2 kg / ~60 L; 2/2 lines weighed from item names; 'Cement portlandzki CEM II 32,5R 25 kg' is 25 kg, over the 15 kg carry limit"
+599698592,PL,Q_COMMERCE,bike,True,7.2,9,1.0,0.0,age-restricted (ID check),,7.2 kg / ~9 L; 4/4 lines weighed from item names
+551530059,KG,Q_COMMERCE,bike,False,2.9,8,1.0,0.0,,,2.9 kg / ~8 L; 2/4 lines weighed from item names
+637290275,UA,FOOD,bike,False,1.6,3,0.6,0.0,,,1.6 kg / ~3 L; 4/5 lines weighed from item names
+791068892,PL,Q_COMMERCE,bike,True,3.8,4,0.5,0.0,age-restricted (ID check),,3.8 kg / ~4 L; 10/10 lines weighed from item names
+590633821,HR,Q_COMMERCE,bike,False,5.6,14,0.4,0.0,,keep upright,5.6 kg / ~14 L; 4/8 lines weighed from item names
+855165577,PL,Q_COMMERCE,bike,True,8.2,10,2.1,0.0,"zero total, age-restricted (ID check)",keep upright,8.2 kg / ~10 L; 13/14 lines weighed from item names
+485736349,PT,Q_COMMERCE,bike,False,0.0,0,0.0,0.0,,,0.0 kg / ~0 L; 1/1 lines weighed from item names
+920273046,RO,FOOD,bike,True,1.1,4,0.7,0.0,high-value cash,,1.1 kg / ~4 L; 0/2 lines weighed from item names
+428856506,NG,FOOD,bike,False,0.7,2,0.3,0.0,,,0.7 kg / ~2 L; 0/1 lines weighed from item names
+431877339,NG,FOOD,bike,False,2.0,8,0.7,0.0,,,2.0 kg / ~8 L; 0/4 lines weighed from item names
+950827894,CI,Q_COMMERCE,bike,False,3.1,4,0.6,0.0,,,3.1 kg / ~4 L; 3/3 lines weighed from item names
+446345383,PL,Q_COMMERCE,bike,True,11.2,14,1.5,0.0,zero total,keep upright,11.2 kg / ~14 L; 7/8 lines weighed from item names; 11.2 kg is between bike's safe 9 kg and max 12 kg
+853138668,PL,Q_COMMERCE,bike,True,9.8,13,2.1,0.0,zero total,keep upright,9.8 kg / ~13 L; 17/20 lines weighed from item names; 9.8 kg is between bike's safe 9 kg and max 12 kg
+385588673,RS,FOOD,bike,False,1.2,4,0.9,0.0,,,1.2 kg / ~4 L; 0/2 lines weighed from item names
+867871729,UA,Q_COMMERCE,bike,False,3.7,10,1.2,0.0,,,3.7 kg / ~10 L; 4/7 lines weighed from item names
+859218475,RO,Q_COMMERCE,motorbike,True,16.4,21,6.0,0.0,age-restricted (ID check),,16.4 kg / ~21 L; 11/12 lines weighed from item names; 16.4 kg is between motorbike's safe 12 kg and max 20 kg
+562486006,PT,Q_COMMERCE,car,False,15.1,18,15.0,0.0,,,15.1 kg / ~18 L; 2/2 lines weighed from item names
+744162866,PT,Q_COMMERCE,bike,False,6.9,9,0.8,0.0,,keep upright,6.9 kg / ~9 L; 14/16 lines weighed from item names
+500385168,NG,Q_COMMERCE,bike,False,5.6,9,5.0,0.0,,,5.6 kg / ~9 L; 1/3 lines weighed from item names
+992274451,RO,FOOD,bike,True,2.0,11,0.6,0.0,high-value cash,keep upright,2.0 kg / ~11 L; 0/5 lines weighed from item names
+706455986,PT,Q_COMMERCE,e-bike,True,13.0,17,2.5,0.0,,,13.0 kg / ~17 L; 9/12 lines weighed from item names; 13.0 kg is between e-bike's safe 9 kg and max 15 kg
+384707583,UA,Q_COMMERCE,bike,False,6.6,17,3.5,0.0,,,6.6 kg / ~17 L; 2/4 lines weighed from item names
+807026446,PL,Q_COMMERCE,bike,True,11.0,16,1.5,0.0,,,11.0 kg / ~16 L; 8/10 lines weighed from item names; 11.0 kg is between bike's safe 9 kg and max 12 kg
+589001439,UA,Q_COMMERCE,bike,False,1.0,6,0.8,0.0,,,1.0 kg / ~6 L; 0/4 lines weighed from item names
+373098544,PT,Q_COMMERCE,bike,False,8.2,11,1.0,0.0,,,8.2 kg / ~11 L; 18/19 lines weighed from item names
+337519701,PT,Q_COMMERCE,bike,False,4.2,9,1.3,0.0,,,4.2 kg / ~9 L; 2/3 lines weighed from item names
+367720127,PT,Q_COMMERCE,bike,False,6.0,7,0.8,0.0,,,6.0 kg / ~7 L; 9/9 lines weighed from item names
+771053737,RO,Q_COMMERCE,bike,False,6.9,15,3.0,0.0,,,6.9 kg / ~15 L; 4/9 lines weighed from item names
+500312013,PT,FOOD,motorbike,True,19.8,47,1.5,0.0,,keep upright,19.8 kg / ~47 L; 1/2 lines weighed from item names; 19.8 kg is between motorbike's safe 12 kg and max 20 kg
+615034637,MA,Q_COMMERCE,bike,False,0.7,3,0.7,0.0,,,0.7 kg / ~3 L; 0/1 lines weighed from item names
+932082857,NG,Q_COMMERCE,bike,False,0.1,3,0.1,0.0,,,0.1 kg / ~3 L; 0/3 lines weighed from item names
+754853905,RS,Q_COMMERCE,bike,False,1.2,1,1.2,0.0,,keep upright,1.2 kg / ~1 L; 0/1 lines weighed from item names
+804435192,RO,Q_COMMERCE,car,False,23.6,36,1.5,0.0,,keep upright,23.6 kg / ~36 L; 10/15 lines weighed from item names
+762065835,CI,Q_COMMERCE,bike,False,1.4,21,0.1,0.0,,,1.4 kg / ~21 L; 0/2 lines weighed from item names
+828019580,UA,Q_COMMERCE,bike,False,2.9,4,0.8,0.0,,,2.9 kg / ~4 L; 3/3 lines weighed from item names
+412278041,RO,Q_COMMERCE,bike,False,7.3,9,0.7,0.0,,,7.3 kg / ~9 L; 6/6 lines weighed from item names
+480917338,PL,Q_COMMERCE,bike,True,9.2,15,2.1,0.0,zero total,keep upright,9.2 kg / ~15 L; 8/12 lines weighed from item names; 9.2 kg is between bike's safe 9 kg and max 12 kg
+861511346,CI,FOOD,bike,False,1.0,2,0.5,0.0,,keep upright,1.0 kg / ~2 L; 0/2 lines weighed from item names
+995603043,PT,Q_COMMERCE,bike,False,4.9,6,1.0,0.0,,,4.9 kg / ~6 L; 8/8 lines weighed from item names
+868108890,UA,FOOD,bike,False,1.3,4,0.8,0.0,,keep upright,1.3 kg / ~4 L; 1/2 lines weighed from item names
+391674331,PT,Q_COMMERCE,bike,False,7.1,13,1.5,0.0,,keep upright,7.1 kg / ~13 L; 10/14 lines weighed from item names
+769961345,CI,Q_COMMERCE,e-bike,True,13.0,16,5.0,0.0,age-restricted (ID check),keep upright,13.0 kg / ~16 L; 9/11 lines weighed from item names; 13.0 kg is between e-bike's safe 9 kg and max 15 kg
+425281328,KG,FOOD,bike,False,1.9,2,0.6,0.0,,,1.9 kg / ~2 L; 5/5 lines weighed from item names
+936730237,PT,Q_COMMERCE,bike,True,9.4,12,1.5,0.0,,,9.4 kg / ~12 L; 13/15 lines weighed from item names; 9.4 kg is between bike's safe 9 kg and max 12 kg
+691199948,RS,FOOD,bike,False,1.6,4,0.5,0.0,,keep upright,1.6 kg / ~4 L; 0/4 lines weighed from item names
+777245072,UA,FOOD,bike,False,1.9,2,0.5,0.0,,,1.9 kg / ~2 L; 7/7 lines weighed from item names
+582653201,PT,Q_COMMERCE,bike,True,9.7,15,1.2,0.0,age-restricted (ID check),keep upright,9.7 kg / ~15 L; 15/19 lines weighed from item names; 9.7 kg is between bike's safe 9 kg and max 12 kg
+626765400,RS,FOOD,bike,False,3.2,12,0.8,0.0,,keep upright,3.2 kg / ~12 L; 0/4 lines weighed from item names
+726346357,NG,Q_COMMERCE,car,False,24.2,29,1.5,0.0,,,24.2 kg / ~29 L; 17/17 lines weighed from item names
+856155984,NG,Q_COMMERCE,bike,False,3.9,14,2.5,0.0,,,3.9 kg / ~14 L; 3/5 lines weighed from item names
+614559091,NG,FOOD,bike,False,2.8,6,0.6,0.0,,keep upright,2.8 kg / ~6 L; 0/3 lines weighed from item names
+642947214,PL,Q_COMMERCE,bike,False,6.1,11,0.8,0.0,,,6.1 kg / ~11 L; 10/11 lines weighed from item names
+639569133,PL,Q_COMMERCE,bike,False,7.3,11,0.5,0.1,,,7.3 kg / ~11 L; 3/6 lines weighed from item names
+581882641,RO,Q_COMMERCE,car,True,55.1,74,6.0,0.0,,,55.1 kg / ~74 L; 10/15 lines weighed from item names; 55.1 kg is between car's safe 40 kg and max 80 kg
+697824813,ME,Q_COMMERCE,car,False,21.5,26,1.5,0.0,,,21.5 kg / ~26 L; 8/8 lines weighed from item names
+355365481,UA,Q_COMMERCE,bike,False,7.0,8,3.0,0.0,,,7.0 kg / ~8 L; 6/6 lines weighed from item names
+773280814,PT,Q_COMMERCE,bike,False,0.2,1,0.1,0.0,,,0.1 kg / ~1 L; 0/1 lines weighed from item names
+554707934,RO,Q_COMMERCE,car,False,33.0,42,12.0,0.0,,keep upright,33.0 kg / ~42 L; 13/16 lines weighed from item names
+828731120,PT,Q_COMMERCE,bike,True,11.2,13,1.0,0.0,,,11.2 kg / ~13 L; 5/5 lines weighed from item names; 11.2 kg is between bike's safe 9 kg and max 12 kg
+385221357,NG,FOOD,bike,False,4.5,9,0.5,0.0,,keep upright,4.5 kg / ~9 L; 0/1 lines weighed from item names
+389008285,PL,Q_COMMERCE,bike,False,3.3,4,1.0,0.0,,,3.3 kg / ~4 L; 9/9 lines weighed from item names
+988487445,PL,Q_COMMERCE,bike,True,9.6,13,0.8,0.0,age-restricted (ID check),,9.6 kg / ~13 L; 4/6 lines weighed from item names; 9.6 kg is between bike's safe 9 kg and max 12 kg
+663062856,NG,FOOD,bike,False,1.6,7,0.7,0.0,,keep upright,1.6 kg / ~7 L; 0/2 lines weighed from item names
+795394463,TN,Q_COMMERCE,motorbike,True,16.6,22,3.0,0.0,,,16.6 kg / ~22 L; 18/20 lines weighed from item names; 16.6 kg is between motorbike's safe 12 kg and max 20 kg
+722996305,UA,Q_COMMERCE,bike,False,0.4,2,0.1,0.0,,,0.4 kg / ~2 L; 2/4 lines weighed from item names
+503167656,NG,FOOD,bike,False,4.8,16,0.5,0.0,,keep upright,4.8 kg / ~16 L; 0/5 lines weighed from item names
+615687664,PT,Q_COMMERCE,bike,True,5.4,6,1.0,0.0,age-restricted (ID check),,5.4 kg / ~6 L; 12/12 lines weighed from item names
+658475487,RO,Q_COMMERCE,bike,False,0.8,1,0.2,0.0,,,0.8 kg / ~1 L; 3/3 lines weighed from item names
+992976347,UA,FOOD,bike,False,0.8,2,0.5,0.0,,keep upright,0.8 kg / ~2 L; 1/2 lines weighed from item names
+810906770,RO,Q_COMMERCE,bike,False,2.3,5,0.1,0.0,,,2.3 kg / ~5 L; 5/7 lines weighed from item names
+413775950,GE,Q_COMMERCE,bike,False,2.1,21,0.1,0.0,,,2.1 kg / ~21 L; 0/1 lines weighed from item names
+460325984,UA,FOOD,bike,False,1.4,3,0.5,0.0,,keep upright,1.4 kg / ~3 L; 0/2 lines weighed from item names
+443289150,MA,FOOD,bike,False,2.1,15,0.4,0.0,,keep upright,2.1 kg / ~15 L; 0/6 lines weighed from item names
+352920451,RS,Q_COMMERCE,bike,False,4.5,15,1.0,0.0,,,4.5 kg / ~15 L; 6/14 lines weighed from item names
+504167792,KZ,Q_COMMERCE,bike,False,7.0,8,0.5,0.0,,,7.0 kg / ~8 L; 11/11 lines weighed from item names
+389763126,PT,Q_COMMERCE,bike,False,6.4,8,2.0,0.0,,,6.4 kg / ~8 L; 8/8 lines weighed from item names
+760077671,AM,Q_COMMERCE,bike,True,10.3,28,1.0,0.0,,keep upright,10.3 kg / ~28 L; 0/18 lines weighed from item names; 10.3 kg is between bike's safe 9 kg and max 12 kg
+874089968,PL,Q_COMMERCE,car,False,36.0,43,15.0,0.0,,,36.0 kg / ~43 L; 3/3 lines weighed from item names
+721943379,PT,Q_COMMERCE,e-bike,True,13.6,19,1.5,0.0,,keep upright,13.6 kg / ~19 L; 18/20 lines weighed from item names; 13.6 kg is between e-bike's safe 9 kg and max 15 kg
+509527009,PT,Q_COMMERCE,bike,False,4.7,20,0.8,0.0,,,4.7 kg / ~20 L; 4/20 lines weighed from item names
+953768957,RO,Q_COMMERCE,bike,True,6.3,8,1.3,0.0,zero total,,6.3 kg / ~8 L; 10/10 lines weighed from item names
+390729649,NG,Q_COMMERCE,bike,False,0.2,3,0.1,0.0,,,0.2 kg / ~3 L; 0/3 lines weighed from item names
+588591520,UA,Q_COMMERCE,bike,False,8.8,11,2.0,0.0,,,8.8 kg / ~11 L; 9/10 lines weighed from item names
+715258772,PL,Q_COMMERCE,bike,False,7.5,20,3.5,0.0,,,7.5 kg / ~20 L; 2/4 lines weighed from item names
+531973479,ME,FOOD,bike,False,2.7,7,0.5,0.0,,keep upright,2.7 kg / ~7 L; 0/4 lines weighed from item names
+694069449,RO,Q_COMMERCE,bike,False,0.8,1,0.8,0.0,,,0.8 kg / ~1 L; 1/1 lines weighed from item names
+408065999,UA,Q_COMMERCE,bike,True,10.0,12,0.1,0.0,abnormal quantity,,10.0 kg / ~12 L; 2/2 lines weighed from item names; 10.0 kg is between bike's safe 9 kg and max 12 kg
+426419189,TN,Q_COMMERCE,bike,True,10.2,14,1.8,0.0,,keep upright,10.2 kg / ~14 L; 11/13 lines weighed from item names; 10.2 kg is between bike's safe 9 kg and max 12 kg
+675156267,PT,Q_COMMERCE,bike,False,7.7,13,1.0,0.0,,keep upright,7.7 kg / ~13 L; 18/21 lines weighed from item names
+699334271,PL,Q_COMMERCE,e-bike,True,13.9,17,9.0,0.0,,,13.9 kg / ~17 L; 11/11 lines weighed from item names; 13.9 kg is between e-bike's safe 9 kg and max 15 kg
+795521682,RO,Q_COMMERCE,bike,False,4.2,6,1.0,0.0,,keep upright,4.2 kg / ~6 L; 11/13 lines weighed from item names
+724551961,CI,FOOD,bike,False,3.2,8,1.5,0.0,,keep upright,3.2 kg / ~8 L; 1/4 lines weighed from item names
+333251289,NG,Q_COMMERCE,call customer,True,50.4,61,50.0,0.0,heavy item,,"50.4 kg / ~61 L; 3/3 lines weighed from item names; 'Mama Gold Rice 50kg' is 50 kg, over the 15 kg carry limit"
+357628282,RO,Q_COMMERCE,bike,False,2.0,6,1.0,0.0,,,2.0 kg / ~6 L; 0/2 lines weighed from item names
+883439863,RO,Q_COMMERCE,bike,False,0.7,1,0.7,0.0,,,0.7 kg / ~1 L; 1/1 lines weighed from item names
+686594367,KE,Q_COMMERCE,bike,True,10.2,22,2.0,0.0,zero total,,10.2 kg / ~22 L; 9/13 lines weighed from item names; 10.2 kg is between bike's safe 9 kg and max 12 kg
+706479411,PL,Q_COMMERCE,e-bike,True,14.8,19,0.6,0.0,,,14.8 kg / ~19 L; 45/46 lines weighed from item names; 14.8 kg is between e-bike's safe 9 kg and max 15 kg
+372775501,RO,FOOD,bike,False,1.2,3,0.5,0.0,,keep upright,1.2 kg / ~3 L; 0/3 lines weighed from item names
+667909019,RO,Q_COMMERCE,bike,True,2.5,10,2.5,0.0,high-value cash,keep upright,2.5 kg / ~10 L; 0/1 lines weighed from item names
+527482836,RS,FOOD,bike,False,2.6,7,0.6,0.0,,,2.5 kg / ~7 L; 0/6 lines weighed from item names
+607805521,PT,Q_COMMERCE,bike,True,9.6,13,1.8,0.0,age-restricted (ID check),,9.6 kg / ~13 L; 11/13 lines weighed from item names; 9.6 kg is between bike's safe 9 kg and max 12 kg
+752758422,KG,FOOD,bike,False,1.6,4,0.6,0.0,,,1.6 kg / ~4 L; 3/4 lines weighed from item names
+651134854,CI,Q_COMMERCE,bike,False,3.9,4,1.2,0.0,,keep upright,3.9 kg / ~4 L; 4/5 lines weighed from item names
+701548976,PT,Q_COMMERCE,bike,True,10.8,13,2.0,0.0,,,10.8 kg / ~13 L; 12/12 lines weighed from item names; 10.8 kg is between bike's safe 9 kg and max 12 kg
+368187719,PL,Q_COMMERCE,motorbike,True,20.0,24,1.0,0.0,,,20.0 kg / ~24 L; 1/1 lines weighed from item names; 20.0 kg is between motorbike's safe 12 kg and max 20 kg
+645267739,PL,Q_COMMERCE,bike,True,10.0,12,9.0,0.0,,,10.0 kg / ~12 L; 4/4 lines weighed from item names; 10.0 kg is between bike's safe 9 kg and max 12 kg
+883300321,RO,Q_COMMERCE,bike,False,0.8,5,0.8,0.0,,,0.8 kg / ~5 L; 0/3 lines weighed from item names
+864748199,RS,Q_COMMERCE,bike,True,2.0,10,2.0,0.0,high-value cash,keep upright,2.0 kg / ~10 L; 0/1 lines weighed from item names
+804362302,MA,FOOD,bike,False,1.6,4,0.5,0.0,,keep upright,1.6 kg / ~4 L; 0/3 lines weighed from item names
+989269713,PT,Q_COMMERCE,bike,True,7.2,11,1.8,0.0,age-restricted (ID check),keep upright,7.1 kg / ~11 L; 8/11 lines weighed from item names
+870496427,UA,FOOD,bike,False,7.7,13,1.1,0.0,,keep upright,7.7 kg / ~13 L; 2/3 lines weighed from item names
+844865252,PT,Q_COMMERCE,bike,True,11.0,13,3.0,0.0,,,11.0 kg / ~13 L; 18/18 lines weighed from item names; 11.0 kg is between bike's safe 9 kg and max 12 kg
+385649071,PL,Q_COMMERCE,bike,False,5.1,8,0.7,0.0,,,5.1 kg / ~8 L; 14/16 lines weighed from item names
+597239929,NG,Q_COMMERCE,bike,False,1.9,2,0.2,0.0,,,1.9 kg / ~2 L; 13/13 lines weighed from item names
+762859301,KG,FOOD,bike,False,2.9,17,0.5,0.0,,keep upright,2.9 kg / ~17 L; 0/5 lines weighed from item names
+377038699,NG,FOOD,bike,False,0.8,5,0.5,0.0,,keep upright,0.9 kg / ~5 L; 0/3 lines weighed from item names
+832255179,UA,Q_COMMERCE,bike,True,7.3,9,0.1,0.0,abnormal quantity,,7.3 kg / ~9 L; 3/3 lines weighed from item names
+599155363,UA,FOOD,bike,False,5.7,26,0.2,0.0,,keep upright,5.7 kg / ~26 L; 0/12 lines weighed from item names
+841765923,PT,Q_COMMERCE,bike,False,3.7,4,1.0,0.0,,,3.7 kg / ~4 L; 11/11 lines weighed from item names
+492524862,PL,Q_COMMERCE,bike,False,4.4,6,1.0,0.0,,,4.4 kg / ~6 L; 15/16 lines weighed from item names
+702383678,RO,Q_COMMERCE,bike,False,7.5,11,0.5,0.1,,,7.5 kg / ~11 L; 3/6 lines weighed from item names
+765491926,TN,Q_COMMERCE,bike,False,4.6,8,1.2,0.0,,keep upright,4.6 kg / ~8 L; 6/9 lines weighed from item names
+897121767,PL,Q_COMMERCE,bike,True,10.2,13,0.7,0.0,,keep upright,10.2 kg / ~13 L; 25/26 lines weighed from item names; 10.2 kg is between bike's safe 9 kg and max 12 kg
+705007653,PL,Q_COMMERCE,car,True,30.4,37,15.0,0.99,high-value cash,,30.4 kg / ~37 L; 2/3 lines weighed from item names; 99% of the weight is guessed
+624135073,UA,Q_COMMERCE,e-bike,True,14.1,18,10.0,0.0,high-value cash,,14.1 kg / ~18 L; 2/3 lines weighed from item names; 14.1 kg is between e-bike's safe 9 kg and max 15 kg
+318498019,UA,FOOD,bike,False,2.4,7,1.2,0.0,,keep upright,2.5 kg / ~7 L; 0/5 lines weighed from item names
+375901229,NG,FOOD,bike,False,3.0,9,0.5,0.0,,keep upright,3.0 kg / ~9 L; 0/5 lines weighed from item names
+316765966,NG,Q_COMMERCE,bike,False,0.8,5,0.5,0.0,,,0.8 kg / ~5 L; 2/4 lines weighed from item names
+820185084,RO,Q_COMMERCE,bike,False,0.8,1,0.1,0.0,,,0.8 kg / ~1 L; 4/4 lines weighed from item names
+511287144,MA,Q_COMMERCE,bike,False,1.3,6,0.5,0.0,,keep upright,1.3 kg / ~6 L; 2/8 lines weighed from item names
+358517220,PL,Q_COMMERCE,car,False,14.7,4,14.0,0.0,,keep upright,14.7 kg / ~4 L; 2/3 lines weighed from item names
+939212504,RO,FOOD,car,False,20.0,75,0.8,0.0,,,20.0 kg / ~75 L; 0/1 lines weighed from item names
+420736582,PT,Q_COMMERCE,bike,False,3.4,11,1.2,0.0,,,3.4 kg / ~11 L; 6/9 lines weighed from item names
+318373256,PL,Q_COMMERCE,bike,False,5.6,8,2.0,0.0,,keep upright,5.6 kg / ~8 L; 7/9 lines weighed from item names
+538874224,KG,Q_COMMERCE,bike,True,10.0,12,1.0,0.0,age-restricted (ID check),,10.0 kg / ~12 L; 1/1 lines weighed from item names; 10.0 kg is between bike's safe 9 kg and max 12 kg
+538699826,PT,Q_COMMERCE,motorbike,True,19.1,23,3.0,0.0,,,19.1 kg / ~23 L; 10/10 lines weighed from item names; 19.1 kg is between motorbike's safe 12 kg and max 20 kg
+657345976,PL,Q_COMMERCE,motorbike,True,15.4,25,1.0,0.0,,keep upright,15.5 kg / ~25 L; 21/25 lines weighed from item names; 15.5 kg is between motorbike's safe 12 kg and max 20 kg
+915278705,NG,Q_COMMERCE,motorbike,True,15.2,18,9.0,0.0,,,15.2 kg / ~18 L; 3/3 lines weighed from item names; 15.2 kg is between motorbike's safe 12 kg and max 20 kg
+676458642,KG,FOOD,bike,False,1.4,4,0.6,0.0,,,1.4 kg / ~4 L; 2/3 lines weighed from item names
+372018296,UA,Q_COMMERCE,bike,False,3.3,9,1.5,0.0,,keep upright,3.3 kg / ~9 L; 6/12 lines weighed from item names
+348189725,RO,Q_COMMERCE,bike,False,7.6,10,2.4,0.0,,,7.6 kg / ~10 L; 12/13 lines weighed from item names
+683880924,CI,Q_COMMERCE,bike,False,0.2,1,0.2,0.0,,,0.2 kg / ~1 L; 0/1 lines weighed from item names
+375311731,NG,FOOD,bike,False,3.0,6,0.5,0.0,,keep upright,3.0 kg / ~6 L; 0/1 lines weighed from item names
+529361214,RS,Q_COMMERCE,bike,True,0.2,1,0.2,0.0,age-restricted (ID check),,0.2 kg / ~1 L; 0/1 lines weighed from item names
+320448274,RO,Q_COMMERCE,e-bike,True,12.6,15,1.0,0.0,,,12.6 kg / ~15 L; 4/4 lines weighed from item names; 12.6 kg is between e-bike's safe 9 kg and max 15 kg
+798890118,PL,Q_COMMERCE,motorbike,True,15.4,18,9.0,0.0,,,15.4 kg / ~18 L; 3/3 lines weighed from item names; 15.4 kg is between motorbike's safe 12 kg and max 20 kg
+567686870,GE,Q_COMMERCE,bike,False,4.7,14,2.0,0.0,,,4.7 kg / ~14 L; 2/4 lines weighed from item names
+794066461,RO,Q_COMMERCE,bike,False,4.2,16,1.0,0.0,,keep upright,4.2 kg / ~16 L; 5/6 lines weighed from item names
+571425343,PT,Q_COMMERCE,bike,False,7.1,10,2.0,0.0,,keep upright,7.1 kg / ~10 L; 18/19 lines weighed from item names
+699391145,NG,Q_COMMERCE,bike,False,0.3,0,0.0,0.0,,,0.3 kg / ~0 L; 1/1 lines weighed from item names
+611452806,RO,Q_COMMERCE,bike,False,3.2,5,1.0,0.0,,,3.1 kg / ~5 L; 9/10 lines weighed from item names
+883513256,MA,Q_COMMERCE,bike,False,0.1,1,0.1,0.0,,,0.1 kg / ~1 L; 0/1 lines weighed from item names
+688338609,PL,Q_COMMERCE,bike,False,6.4,8,2.5,0.0,,,6.4 kg / ~8 L; 13/14 lines weighed from item names
+661143869,PT,Q_COMMERCE,bike,False,5.9,8,1.6,0.0,,keep upright,5.9 kg / ~8 L; 5/6 lines weighed from item names
+708172584,PL,Q_COMMERCE,bike,False,7.6,13,2.0,0.0,,,7.6 kg / ~13 L; 16/21 lines weighed from item names
+674420700,GE,Q_COMMERCE,bike,False,8.3,16,0.7,0.0,,,8.3 kg / ~16 L; 0/8 lines weighed from item names
+601040154,UA,Q_COMMERCE,bike,False,0.2,5,0.0,0.0,,,0.2 kg / ~5 L; 3/5 lines weighed from item names
+306837097,MA,Q_COMMERCE,bike,True,10.9,13,1.3,0.0,,,10.9 kg / ~13 L; 8/8 lines weighed from item names; 10.9 kg is between bike's safe 9 kg and max 12 kg
+301917648,RO,FOOD,bike,False,4.3,13,0.8,0.0,,,4.3 kg / ~13 L; 8/12 lines weighed from item names
+889843006,PL,Q_COMMERCE,bike,False,2.2,4,1.0,0.0,,keep upright,2.2 kg / ~4 L; 6/7 lines weighed from item names
+342823497,NG,FOOD,bike,False,0.9,4,0.5,0.0,,,0.9 kg / ~4 L; 0/2 lines weighed from item names
+592413958,PL,Q_COMMERCE,car,False,5.4,153,5.0,0.0,,keep upright,5.4 kg / ~153 L; 0/4 lines weighed from item names
+362917692,CI,FOOD,bike,False,4.0,15,0.8,0.0,,,4.0 kg / ~15 L; 0/1 lines weighed from item names
+668181242,NG,FOOD,bike,False,1.0,3,1.0,0.0,,,1.0 kg / ~3 L; 0/1 lines weighed from item names
+359033078,PT,Q_COMMERCE,bike,True,9.1,11,1.0,0.0,,keep upright,9.1 kg / ~11 L; 5/6 lines weighed from item names; 9.1 kg is between bike's safe 9 kg and max 12 kg
+764123169,UA,Q_COMMERCE,car,False,25.2,30,5.0,0.0,,,25.2 kg / ~30 L; 3/3 lines weighed from item names
+750351866,CI,Q_COMMERCE,e-bike,True,12.9,23,4.5,0.0,,,12.9 kg / ~23 L; 9/10 lines weighed from item names; 12.9 kg is between e-bike's safe 9 kg and max 15 kg
+812330790,KG,FOOD,bike,False,0.9,1,0.4,0.0,,,0.9 kg / ~1 L; 3/3 lines weighed from item names
+562491699,PL,Q_COMMERCE,bike,False,6.8,9,1.0,0.0,,,6.8 kg / ~9 L; 12/14 lines weighed from item names
+892301021,PL,FOOD,bike,False,1.0,1,1.0,0.0,,,1.0 kg / ~1 L; 1/1 lines weighed from item names
+835045327,KE,Q_COMMERCE,car,True,30.8,47,5.0,0.0,"zero total, high-value cash",keep upright,30.8 kg / ~47 L; 21/31 lines weighed from item names
+721870398,GE,Q_COMMERCE,motorbike,True,15.0,31,1.5,0.0,,keep upright,15.0 kg / ~31 L; 0/15 lines weighed from item names; 15.0 kg is between motorbike's safe 12 kg and max 20 kg
+963101833,PL,Q_COMMERCE,bike,False,4.3,7,1.0,0.0,,keep upright,4.3 kg / ~7 L; 7/10 lines weighed from item names
+583361576,PL,Q_COMMERCE,bike,False,4.0,5,1.0,0.0,,,4.0 kg / ~5 L; 3/3 lines weighed from item names
+528690954,UA,FOOD,bike,False,3.5,11,0.8,0.0,,keep upright,3.5 kg / ~11 L; 0/9 lines weighed from item names
+821427146,PL,Q_COMMERCE,bike,True,9.0,12,1.0,0.0,zero total,,9.0 kg / ~12 L; 21/23 lines weighed from item names; 9.0 kg is between bike's safe 9 kg and max 12 kg
+485709699,KE,Q_COMMERCE,bike,False,0.2,1,0.2,0.0,,,0.2 kg / ~1 L; 0/1 lines weighed from item names
+986580900,RO,Q_COMMERCE,bike,False,5.5,8,1.0,0.0,,,5.5 kg / ~8 L; 12/13 lines weighed from item names
+895219674,MA,FOOD,bike,False,1.9,9,0.7,0.0,,,1.9 kg / ~9 L; 0/3 lines weighed from item names
+807359003,RO,Q_COMMERCE,bike,True,4.5,12,2.0,0.0,age-restricted (ID check),,4.5 kg / ~12 L; 5/7 lines weighed from item names
+814756368,RO,Q_COMMERCE,bike,False,8.3,11,1.0,0.0,,keep upright,8.3 kg / ~11 L; 11/13 lines weighed from item names
+671278553,PT,Q_COMMERCE,car,True,22.0,30,1.5,0.0,high-value cash,keep upright,21.9 kg / ~30 L; 35/39 lines weighed from item names
+422237422,PL,Q_COMMERCE,bike,False,4.9,6,1.0,0.0,,keep upright,4.9 kg / ~6 L; 7/8 lines weighed from item names
+636254602,RO,Q_COMMERCE,bike,True,11.2,18,1.7,0.0,,,11.2 kg / ~18 L; 15/20 lines weighed from item names; 11.2 kg is between bike's safe 9 kg and max 12 kg
+319621035,NG,Q_COMMERCE,bike,False,5.2,10,1.0,0.18,,,5.2 kg / ~10 L; 4/10 lines weighed from item names
+683709360,PL,Q_COMMERCE,motorbike,True,18.2,22,0.8,0.0,age-restricted (ID check),,18.2 kg / ~22 L; 2/2 lines weighed from item names; 18.2 kg is between motorbike's safe 12 kg and max 20 kg
+457992411,PL,Q_COMMERCE,bike,True,11.1,14,1.0,0.0,,keep upright,11.1 kg / ~14 L; 22/24 lines weighed from item names; 11.1 kg is between bike's safe 9 kg and max 12 kg
+863953354,PL,Q_COMMERCE,motorbike,True,16.6,20,1.5,0.0,age-restricted (ID check),,16.6 kg / ~20 L; 11/11 lines weighed from item names; 16.6 kg is between motorbike's safe 12 kg and max 20 kg
+883686853,RO,FOOD,bike,False,3.0,16,0.7,0.0,,keep upright,3.0 kg / ~16 L; 0/6 lines weighed from item names
+377032503,BG,FOOD,bike,False,3.2,28,0.4,0.0,,keep upright,3.2 kg / ~28 L; 0/2 lines weighed from item names
+625025598,PL,Q_COMMERCE,bike,False,6.1,12,1.0,0.0,,keep upright,6.1 kg / ~12 L; 16/21 lines weighed from item names
+422715575,PL,Q_COMMERCE,bike,False,5.1,6,1.0,0.0,,,5.1 kg / ~6 L; 4/4 lines weighed from item names
+924036259,NG,Q_COMMERCE,car,False,31.0,37,2.0,0.0,,,31.0 kg / ~37 L; 3/3 lines weighed from item names
+540089379,PL,Q_COMMERCE,bike,False,3.9,5,2.0,0.0,,,3.9 kg / ~5 L; 11/11 lines weighed from item names
+730283478,MA,Q_COMMERCE,bike,False,1.4,3,1.1,0.0,,,1.4 kg / ~3 L; 3/4 lines weighed from item names
+883813508,PL,Q_COMMERCE,bike,False,7.9,14,1.0,0.0,,,7.9 kg / ~14 L; 16/20 lines weighed from item names
+633535773,PL,Q_COMMERCE,bike,False,1.9,14,0.5,0.0,,,1.9 kg / ~14 L; 1/5 lines weighed from item names
+529007166,UA,Q_COMMERCE,bike,False,5.5,9,4.5,0.0,,,5.5 kg / ~9 L; 2/5 lines weighed from item names
+725876110,NG,FOOD,bike,False,1.0,2,0.5,0.0,,keep upright,0.9 kg / ~2 L; 0/2 lines weighed from item names
+581965198,PL,FOOD,bike,False,0.5,1,0.3,0.0,,,0.5 kg / ~1 L; 1/2 lines weighed from item names
+564157592,GE,Q_COMMERCE,bike,False,2.5,18,0.4,0.0,,,2.5 kg / ~18 L; 0/6 lines weighed from item names
+956162741,PL,FOOD,bike,False,0.6,3,0.6,0.0,,,0.6 kg / ~3 L; 1/2 lines weighed from item names
+502439537,CI,FOOD,bike,False,1.2,3,0.5,0.0,,,1.2 kg / ~3 L; 0/2 lines weighed from item names
+320082282,NG,Q_COMMERCE,bike,False,1.2,9,0.3,0.0,,,1.2 kg / ~9 L; 5/7 lines weighed from item names
+951369234,PL,Q_COMMERCE,bike,False,6.4,8,1.8,0.0,,,6.4 kg / ~8 L; 14/14 lines weighed from item names
+442572403,MA,Q_COMMERCE,bike,False,1.4,3,0.2,0.0,,keep upright,1.4 kg / ~3 L; 11/12 lines weighed from item names
+415130084,HR,Q_COMMERCE,bike,True,10.9,26,2.0,0.0,,keep upright,10.9 kg / ~26 L; 7/18 lines weighed from item names; 10.9 kg is between bike's safe 9 kg and max 12 kg
+601042706,RO,Q_COMMERCE,car,False,22.0,26,5.0,0.0,,,22.0 kg / ~26 L; 6/6 lines weighed from item names
+920960916,RO,Q_COMMERCE,bike,False,0.8,3,0.8,0.0,,,0.8 kg / ~3 L; 0/1 lines weighed from item names
+567873665,NG,FOOD,bike,False,2.0,8,0.2,0.0,,keep upright,2.0 kg / ~8 L; 0/3 lines weighed from item names
+828727290,PT,Q_COMMERCE,bike,True,11.5,19,1.4,0.0,,keep upright,11.5 kg / ~19 L; 10/16 lines weighed from item names; 11.5 kg is between bike's safe 9 kg and max 12 kg
+683499416,RO,Q_COMMERCE,bike,True,9.1,11,1.5,0.0,,,9.1 kg / ~11 L; 4/4 lines weighed from item names; 9.1 kg is between bike's safe 9 kg and max 12 kg
+752535917,PT,Q_COMMERCE,bike,False,7.2,9,1.0,0.0,,,7.2 kg / ~9 L; 14/14 lines weighed from item names
+415130483,PL,Q_COMMERCE,bike,True,9.0,11,0.5,0.0,age-restricted (ID check),,9.0 kg / ~11 L; 4/4 lines weighed from item names
+940243150,MA,Q_COMMERCE,bike,False,2.6,10,0.8,0.0,,,2.6 kg / ~10 L; 2/6 lines weighed from item names
+317248231,NG,Q_COMMERCE,bike,True,4.4,6,0.8,0.0,"zero total, age-restricted (ID check)",,4.4 kg / ~6 L; 8/9 lines weighed from item names
+885595582,UA,Q_COMMERCE,bike,False,8.1,10,1.5,0.0,,,8.1 kg / ~10 L; 3/3 lines weighed from item names
+593798531,MA,Q_COMMERCE,bike,False,0.2,5,0.0,0.0,,,0.2 kg / ~5 L; 0/4 lines weighed from item names
+356002753,UA,Q_COMMERCE,bike,False,3.4,4,2.0,0.0,,,3.5 kg / ~4 L; 5/5 lines weighed from item names
+836002862,PL,Q_COMMERCE,bike,False,4.5,5,0.5,0.0,,,4.5 kg / ~5 L; 10/10 lines weighed from item names
+614389162,TN,Q_COMMERCE,bike,False,3.5,6,1.5,0.0,,,3.5 kg / ~6 L; 8/10 lines weighed from item names
+946128817,KE,Q_COMMERCE,bike,False,5.0,11,0.8,0.0,,,5.0 kg / ~11 L; 2/3 lines weighed from item names
+305053595,UA,Q_COMMERCE,bike,True,6.0,7,0.5,0.0,age-restricted (ID check),,6.0 kg / ~7 L; 1/1 lines weighed from item names
+745655906,RO,Q_COMMERCE,bike,False,2.8,5,1.2,0.0,,,2.8 kg / ~5 L; 0/2 lines weighed from item names
+916936060,HR,Q_COMMERCE,bike,False,7.1,9,1.0,0.0,,,7.1 kg / ~9 L; 9/15 lines weighed from item names
+486256557,PL,Q_COMMERCE,car,True,20.3,24,9.0,0.0,zero total,,20.3 kg / ~24 L; 4/4 lines weighed from item names
+479325223,PL,Q_COMMERCE,bike,False,5.0,6,0.5,0.0,,,5.0 kg / ~6 L; 1/1 lines weighed from item names
+428791782,UA,Q_COMMERCE,bike,True,2.7,4,0.3,0.0,age-restricted (ID check),,2.7 kg / ~4 L; 13/14 lines weighed from item names
+884312575,PL,Q_COMMERCE,bike,False,0.8,1,0.2,0.0,,,0.8 kg / ~1 L; 5/6 lines weighed from item names
+610872761,TN,Q_COMMERCE,bike,False,5.9,10,1.2,0.0,,,5.9 kg / ~10 L; 7/11 lines weighed from item names
+593998604,RO,Q_COMMERCE,bike,True,0.5,10,0.1,0.0,age-restricted (ID check),,0.5 kg / ~10 L; 0/1 lines weighed from item names
+569975720,PL,Q_COMMERCE,bike,False,5.9,7,1.0,0.0,,,5.9 kg / ~7 L; 13/13 lines weighed from item names
+748296183,RO,Q_COMMERCE,bike,True,1.9,5,0.5,0.48,,,1.9 kg / ~5 L; 0/3 lines weighed from item names; 48% of the weight is guessed
+346807607,UG,Q_COMMERCE,bike,False,0.0,1,0.0,0.0,,,0.0 kg / ~1 L; 0/1 lines weighed from item names
+532069901,UA,Q_COMMERCE,bike,False,0.5,3,0.3,0.0,,,0.5 kg / ~3 L; 0/3 lines weighed from item names
+372108360,PL,Q_COMMERCE,bike,True,11.4,15,1.8,0.0,,,11.4 kg / ~15 L; 25/27 lines weighed from item names; 11.4 kg is between bike's safe 9 kg and max 12 kg
+840629929,PT,Q_COMMERCE,car,False,39.4,53,3.0,0.0,,keep upright,39.4 kg / ~53 L; 39/49 lines weighed from item names
+548817649,PL,Q_COMMERCE,bike,False,5.1,6,0.5,0.0,,,5.1 kg / ~6 L; 5/5 lines weighed from item names
+940371108,KG,Q_COMMERCE,bike,False,1.0,1,1.0,0.0,,,1.0 kg / ~1 L; 1/1 lines weighed from item names
+973892560,RO,Q_COMMERCE,bike,False,1.1,1,0.1,0.0,,,1.1 kg / ~1 L; 8/8 lines weighed from item names
+652735330,PL,Q_COMMERCE,bike,False,7.8,9,0.6,0.0,,,7.8 kg / ~9 L; 18/18 lines weighed from item names
+643995944,PT,Q_COMMERCE,e-bike,True,12.3,15,1.0,0.0,,,12.3 kg / ~15 L; 13/13 lines weighed from item names; 12.3 kg is between e-bike's safe 9 kg and max 15 kg
+998185880,BG,FOOD,bike,False,4.6,18,0.6,0.0,,keep upright,4.6 kg / ~18 L; 0/8 lines weighed from item names
+738517231,NG,Q_COMMERCE,bike,False,4.6,7,0.6,0.0,,,4.6 kg / ~7 L; 2/4 lines weighed from item names
+615690100,NG,Q_COMMERCE,bike,False,1.8,3,0.8,0.0,,,1.8 kg / ~3 L; 6/7 lines weighed from item names
+856455101,NG,FOOD,bike,False,2.3,6,0.5,0.0,,,2.3 kg / ~6 L; 1/2 lines weighed from item names
+407457565,PL,FOOD,motorbike,True,14.0,60,0.7,0.0,,,14.0 kg / ~60 L; 0/1 lines weighed from item names; 14.0 kg is between motorbike's safe 12 kg and max 20 kg
+838118917,NG,FOOD,bike,False,1.7,4,0.7,0.0,,keep upright,1.7 kg / ~4 L; 1/4 lines weighed from item names
+775743810,PL,Q_COMMERCE,bike,True,10.0,12,1.5,0.0,"zero total, age-restricted (ID check)",,10.0 kg / ~12 L; 16/16 lines weighed from item names; 10.0 kg is between bike's safe 9 kg and max 12 kg
+475767806,PL,FOOD,bike,False,0.4,1,0.5,0.0,,,0.5 kg / ~1 L; 0/1 lines weighed from item names
+693413301,RO,Q_COMMERCE,bike,True,3.0,6,0.7,0.0,age-restricted (ID check),,3.0 kg / ~6 L; 13/14 lines weighed from item names
+717848462,PT,Q_COMMERCE,bike,True,6.7,8,1.0,0.0,age-restricted (ID check),,6.7 kg / ~8 L; 12/12 lines weighed from item names
+390087906,UA,FOOD,bike,False,3.2,7,1.0,0.0,,,3.2 kg / ~7 L; 4/6 lines weighed from item names
+609653075,PT,Q_COMMERCE,bike,False,5.9,7,0.2,0.0,,,5.9 kg / ~7 L; 4/4 lines weighed from item names
+997336037,PL,Q_COMMERCE,bike,False,6.3,8,1.3,0.0,,,6.3 kg / ~8 L; 10/10 lines weighed from item names
+371927218,NG,FOOD,bike,False,5.0,16,0.8,0.0,,,5.0 kg / ~16 L; 1/2 lines weighed from item names
+701732270,PL,FOOD,bike,False,1.2,4,0.4,0.0,,keep upright,1.2 kg / ~4 L; 0/4 lines weighed from item names
+575113459,PL,Q_COMMERCE,bike,False,6.1,10,1.0,0.0,,,6.1 kg / ~10 L; 18/21 lines weighed from item names
+735924754,PL,Q_COMMERCE,bike,True,2.4,3,0.4,0.0,age-restricted (ID check),,2.4 kg / ~3 L; 17/17 lines weighed from item names
+953809180,ME,Q_COMMERCE,bike,False,8.1,11,1.5,0.0,,keep upright,8.1 kg / ~11 L; 9/11 lines weighed from item names
+556059889,NG,FOOD,bike,False,1.4,2,0.5,0.0,,,1.4 kg / ~2 L; 1/2 lines weighed from item names
+663284704,NG,FOOD,bike,False,2.7,20,1.5,0.0,,,2.7 kg / ~20 L; 0/2 lines weighed from item names
+767635526,TN,FOOD,bike,False,4.7,24,0.5,0.0,,keep upright,4.7 kg / ~24 L; 1/4 lines weighed from item names
+540451709,MA,Q_COMMERCE,bike,False,0.4,1,0.4,0.0,,,0.4 kg / ~1 L; 0/1 lines weighed from item names
+657134333,UA,Q_COMMERCE,bike,False,3.7,4,1.0,0.0,,,3.7 kg / ~4 L; 9/9 lines weighed from item names
+780502681,RO,FOOD,bike,False,5.0,13,0.6,0.0,,,5.0 kg / ~13 L; 0/7 lines weighed from item names
+580141983,UA,FOOD,motorbike,True,16.6,36,1.0,0.0,,,16.6 kg / ~36 L; 1/3 lines weighed from item names; 16.6 kg is between motorbike's safe 12 kg and max 20 kg
+381465169,PL,Q_COMMERCE,motorbike,True,16.2,19,9.0,0.0,,,16.2 kg / ~19 L; 10/10 lines weighed from item names; 16.2 kg is between motorbike's safe 12 kg and max 20 kg
+871133530,UA,FOOD,bike,False,1.5,2,0.4,0.0,,keep upright,1.5 kg / ~2 L; 4/5 lines weighed from item names
+608870743,RO,Q_COMMERCE,bike,False,2.7,3,1.5,0.0,,,2.7 kg / ~3 L; 9/9 lines weighed from item names
+429005904,NG,Q_COMMERCE,e-bike,True,12.3,15,0.6,0.0,,,12.3 kg / ~15 L; 3/3 lines weighed from item names; 12.3 kg is between e-bike's safe 9 kg and max 15 kg
+875495581,PL,Q_COMMERCE,car,False,35.2,42,5.0,0.0,,,35.2 kg / ~42 L; 3/3 lines weighed from item names
+839544165,NG,FOOD,bike,False,5.2,21,1.0,0.0,,keep upright,5.2 kg / ~21 L; 0/5 lines weighed from item names
+581062301,PL,Q_COMMERCE,car,False,27.7,33,1.5,0.0,,keep upright,27.7 kg / ~33 L; 18/19 lines weighed from item names
+856924522,NG,FOOD,bike,False,3.9,15,0.5,0.0,,keep upright,3.9 kg / ~15 L; 0/5 lines weighed from item names
+566364692,RS,Q_COMMERCE,bike,False,7.1,10,4.0,0.0,,,7.1 kg / ~10 L; 5/7 lines weighed from item names
+379990151,PL,Q_COMMERCE,bike,False,7.1,11,1.0,0.0,,keep upright,7.1 kg / ~11 L; 11/15 lines weighed from item names
+389280324,CI,Q_COMMERCE,bike,False,4.4,5,0.2,0.0,,,4.4 kg / ~5 L; 1/1 lines weighed from item names
+708205181,RO,FOOD,bike,False,1.8,13,0.2,0.0,,,1.8 kg / ~13 L; 0/8 lines weighed from item names
+772974042,PL,Q_COMMERCE,e-bike,True,14.4,22,3.0,0.0,age-restricted (ID check),keep upright,14.4 kg / ~22 L; 19/23 lines weighed from item names; 14.4 kg is between e-bike's safe 9 kg and max 15 kg
+669032021,PL,Q_COMMERCE,bike,False,2.3,3,0.4,0.0,,,2.3 kg / ~3 L; 14/14 lines weighed from item names
+528188835,PT,Q_COMMERCE,bike,False,4.9,10,1.0,0.0,,,4.9 kg / ~10 L; 4/6 lines weighed from item names
+539327547,UG,Q_COMMERCE,bike,False,2.8,13,0.4,0.0,,,2.8 kg / ~13 L; 2/5 lines weighed from item names
+375478192,GE,Q_COMMERCE,bike,False,0.4,8,0.1,0.0,,,0.4 kg / ~8 L; 0/4 lines weighed from item names
+342359297,UA,FOOD,bike,False,1.7,2,0.5,0.0,,,1.7 kg / ~2 L; 5/5 lines weighed from item names
+576554417,UA,FOOD,bike,False,1.5,2,0.4,0.0,,,1.5 kg / ~2 L; 3/4 lines weighed from item names
+530494989,RO,Q_COMMERCE,car,False,22.8,39,5.0,0.0,,keep upright,22.8 kg / ~39 L; 23/29 lines weighed from item names
+590331493,UA,Q_COMMERCE,car,False,11.4,150,11.0,0.0,,,11.4 kg / ~150 L; 2/3 lines weighed from item names
+939008888,ME,Q_COMMERCE,bike,True,11.3,15,1.0,0.0,,keep upright,11.3 kg / ~15 L; 14/17 lines weighed from item names; 11.3 kg is between bike's safe 9 kg and max 12 kg
+629123819,PL,Q_COMMERCE,bike,False,5.8,7,1.0,0.0,,,5.8 kg / ~7 L; 12/12 lines weighed from item names
+626112023,NG,FOOD,bike,False,0.8,2,0.5,0.0,,keep upright,0.8 kg / ~2 L; 1/2 lines weighed from item names
+926080276,PT,Q_COMMERCE,car,True,60.7,73,1.5,0.0,,,60.7 kg / ~73 L; 5/5 lines weighed from item names; 60.7 kg is between car's safe 40 kg and max 80 kg
+382686568,CI,Q_COMMERCE,bike,False,0.8,1,0.8,0.0,,,0.8 kg / ~1 L; 1/1 lines weighed from item names
+648297500,RO,FOOD,bike,False,1.4,4,0.5,0.0,,keep upright,1.4 kg / ~4 L; 0/4 lines weighed from item names
+395506998,UA,Q_COMMERCE,bike,False,3.6,8,1.5,0.0,,,3.6 kg / ~8 L; 6/9 lines weighed from item names
+538839244,CI,Q_COMMERCE,motorbike,True,15.8,23,1.3,0.0,,keep upright,15.8 kg / ~23 L; 10/13 lines weighed from item names; 15.8 kg is between motorbike's safe 12 kg and max 20 kg
+508640929,PL,Q_COMMERCE,motorbike,True,15.5,20,1.5,0.0,,,15.5 kg / ~20 L; 18/20 lines weighed from item names; 15.5 kg is between motorbike's safe 12 kg and max 20 kg
+516779269,NG,Q_COMMERCE,bike,False,8.5,11,1.5,0.0,,,8.5 kg / ~11 L; 5/6 lines weighed from item names
+366738448,PL,Q_COMMERCE,bike,True,6.4,11,1.5,0.0,zero total,,6.4 kg / ~11 L; 14/16 lines weighed from item names
+736282232,UA,Q_COMMERCE,bike,False,1.0,3,1.0,0.0,,keep upright,1.0 kg / ~3 L; 0/1 lines weighed from item names
+393884529,PL,Q_COMMERCE,e-bike,True,13.5,16,9.0,0.0,,,13.5 kg / ~16 L; 4/4 lines weighed from item names; 13.5 kg is between e-bike's safe 9 kg and max 15 kg
+785869054,UA,Q_COMMERCE,bike,False,5.7,7,0.1,0.0,,,5.7 kg / ~7 L; 4/4 lines weighed from item names
+781790044,GE,Q_COMMERCE,bike,False,3.0,2,1.5,0.0,,keep upright,3.0 kg / ~2 L; 0/1 lines weighed from item names
+837307945,UA,Q_COMMERCE,bike,False,1.6,13,0.3,0.0,,keep upright,1.6 kg / ~13 L; 1/6 lines weighed from item names
+419180931,RS,Q_COMMERCE,bike,False,5.9,7,1.2,0.0,,,5.9 kg / ~7 L; 4/4 lines weighed from item names
+609575778,PL,Q_COMMERCE,bike,False,4.1,5,1.0,0.0,,,4.1 kg / ~5 L; 9/9 lines weighed from item names
+968314009,RO,Q_COMMERCE,bike,False,5.6,8,3.8,0.0,,,5.6 kg / ~8 L; 13/14 lines weighed from item names
+783316819,PT,Q_COMMERCE,call customer,True,20.2,150,20.0,0.0,heavy item,,"20.2 kg / ~150 L; 2/3 lines weighed from item names; 'Colchão Espuma 135x190 cm (enrolado em c' is 20 kg, over the 15 kg carry limit"
+839208658,PL,Q_COMMERCE,bike,True,10.2,13,1.0,0.0,zero total,keep upright,10.2 kg / ~13 L; 21/23 lines weighed from item names; 10.2 kg is between bike's safe 9 kg and max 12 kg
+728802100,RO,FOOD,bike,False,2.0,8,0.3,0.0,,keep upright,2.0 kg / ~8 L; 0/5 lines weighed from item names
+921208259,UA,Q_COMMERCE,bike,False,3.2,5,1.2,0.0,,,3.2 kg / ~5 L; 4/5 lines weighed from item names
+527487855,NG,FOOD,bike,False,1.6,5,0.8,0.0,,,1.6 kg / ~5 L; 0/3 lines weighed from item names
+357936095,PT,Q_COMMERCE,e-bike,True,12.2,18,3.8,0.0,,,12.2 kg / ~18 L; 12/14 lines weighed from item names; 12.2 kg is between e-bike's safe 9 kg and max 15 kg
+684566447,MA,Q_COMMERCE,bike,False,0.3,1,0.3,0.0,,,0.3 kg / ~1 L; 0/1 lines weighed from item names
+841087229,NG,Q_COMMERCE,bike,False,4.2,5,1.0,0.0,,keep upright,4.2 kg / ~5 L; 2/4 lines weighed from item names
+739945184,RO,Q_COMMERCE,bike,False,1.3,2,0.1,0.0,,,1.3 kg / ~2 L; 1/1 lines weighed from item names
+756292637,UA,FOOD,bike,False,2.3,3,1.3,0.0,,,2.3 kg / ~3 L; 2/2 lines weighed from item names
+751475554,RS,FOOD,bike,False,1.9,6,0.3,0.0,,keep upright,1.9 kg / ~6 L; 1/6 lines weighed from item names
+775374271,RO,Q_COMMERCE,bike,False,2.0,2,0.3,0.0,,,2.0 kg / ~2 L; 9/9 lines weighed from item names
+639186464,KG,FOOD,bike,False,2.6,8,0.4,0.0,,,2.6 kg / ~8 L; 0/8 lines weighed from item names
+388006164,PL,Q_COMMERCE,bike,False,1.2,1,0.3,0.0,,,1.2 kg / ~1 L; 5/5 lines weighed from item names
+633277241,PT,Q_COMMERCE,bike,False,2.6,3,0.5,0.0,,,2.6 kg / ~3 L; 5/5 lines weighed from item names
+892456854,ME,Q_COMMERCE,bike,False,7.4,9,1.0,0.0,,,7.4 kg / ~9 L; 12/12 lines weighed from item names
+430870829,RO,Q_COMMERCE,bike,False,3.9,5,0.5,0.0,,,3.9 kg / ~5 L; 4/4 lines weighed from item names
+615062164,KG,FOOD,bike,False,4.3,5,0.6,0.0,,,4.3 kg / ~5 L; 2/2 lines weighed from item names
+842652904,RO,Q_COMMERCE,bike,False,0.6,5,0.1,0.0,,keep upright,0.6 kg / ~5 L; 3/7 lines weighed from item names
+773475865,AM,FOOD,bike,True,9.7,29,0.5,0.0,high-value cash,keep upright,9.7 kg / ~29 L; 0/16 lines weighed from item names; 9.7 kg is between bike's safe 9 kg and max 12 kg
+379245341,UA,FOOD,bike,False,1.6,2,0.5,0.0,,,1.6 kg / ~2 L; 7/7 lines weighed from item names
+608615366,PT,Q_COMMERCE,e-bike,True,12.4,16,5.0,0.0,age-restricted (ID check),,12.4 kg / ~16 L; 11/12 lines weighed from item names; 12.4 kg is between e-bike's safe 9 kg and max 15 kg
+331119109,NG,Q_COMMERCE,bike,True,4.2,5,1.0,0.0,age-restricted (ID check),,4.2 kg / ~5 L; 3/3 lines weighed from item names
+679059491,UA,Q_COMMERCE,car,False,32.4,39,7.6,0.0,,,32.4 kg / ~39 L; 2/2 lines weighed from item names
+907971892,PT,Q_COMMERCE,bike,True,9.0,11,1.2,0.0,,,9.0 kg / ~11 L; 12/13 lines weighed from item names; 9.0 kg is between bike's safe 9 kg and max 12 kg
+809552021,PT,Q_COMMERCE,bike,True,10.0,14,1.5,0.0,,keep upright,9.9 kg / ~14 L; 6/8 lines weighed from item names; 9.9 kg is between bike's safe 9 kg and max 12 kg
+913104452,PT,Q_COMMERCE,bike,False,3.6,6,0.5,0.0,,keep upright,3.6 kg / ~6 L; 14/16 lines weighed from item names
+402945340,MA,Q_COMMERCE,bike,False,3.4,13,0.8,0.0,,,3.4 kg / ~13 L; 0/2 lines weighed from item names
+376311794,TN,Q_COMMERCE,bike,False,2.0,6,0.4,0.0,,,2.0 kg / ~6 L; 3/4 lines weighed from item names
+461456506,MA,Q_COMMERCE,car,False,28.4,34,9.0,0.0,,,28.3 kg / ~34 L; 4/4 lines weighed from item names
+550346569,PL,Q_COMMERCE,bike,True,8.4,12,1.5,0.0,age-restricted (ID check),keep upright,8.4 kg / ~12 L; 14/16 lines weighed from item names
+363324599,PT,Q_COMMERCE,e-bike,True,13.3,21,0.5,0.0,high-value cash,,13.3 kg / ~21 L; 10/11 lines weighed from item names; 13.3 kg is between e-bike's safe 9 kg and max 15 kg
+440997709,PT,Q_COMMERCE,car,False,36.6,49,3.5,0.0,,keep upright,36.6 kg / ~49 L; 36/42 lines weighed from item names
+421480426,UA,Q_COMMERCE,bike,True,9.2,11,1.8,0.0,,,9.2 kg / ~11 L; 9/9 lines weighed from item names; 9.2 kg is between bike's safe 9 kg and max 12 kg
+900689342,RO,FOOD,bike,False,1.9,14,0.3,0.0,,,1.9 kg / ~14 L; 0/7 lines weighed from item names
+755563090,UA,Q_COMMERCE,e-bike,True,14.0,10,1.8,0.0,,keep upright,14.0 kg / ~10 L; 2/3 lines weighed from item names; 14.0 kg is between e-bike's safe 9 kg and max 15 kg
+565698476,RS,FOOD,bike,False,2.3,3,2.3,0.0,,,2.3 kg / ~3 L; 1/1 lines weighed from item names
+451559505,UA,FOOD,bike,False,5.6,7,0.7,0.0,,,5.6 kg / ~7 L; 5/5 lines weighed from item names
+543579684,PT,Q_COMMERCE,bike,False,3.3,4,0.8,0.0,,,3.3 kg / ~4 L; 10/10 lines weighed from item names
+902494344,MA,Q_COMMERCE,bike,False,2.6,15,0.6,0.0,,,2.6 kg / ~15 L; 0/8 lines weighed from item names
+449731401,PL,FOOD,bike,False,1.2,3,0.5,0.0,,keep upright,1.1 kg / ~3 L; 0/3 lines weighed from item names
+469986510,PT,Q_COMMERCE,bike,False,0.9,1,0.2,0.0,,,0.9 kg / ~1 L; 4/4 lines weighed from item names
+476301865,PL,Q_COMMERCE,bike,False,8.4,13,1.2,0.0,,,8.4 kg / ~13 L; 5/8 lines weighed from item names
+996985712,RS,Q_COMMERCE,bike,True,9.8,12,9.0,0.0,,,9.8 kg / ~12 L; 4/4 lines weighed from item names; 9.8 kg is between bike's safe 9 kg and max 12 kg
+876893076,RO,Q_COMMERCE,bike,False,0.9,1,0.1,0.0,,,0.9 kg / ~1 L; 2/2 lines weighed from item names
+382014180,PT,Q_COMMERCE,bike,False,8.8,11,2.0,0.0,,,8.8 kg / ~11 L; 9/9 lines weighed from item names
+699307186,HR,Q_COMMERCE,bike,False,5.1,12,1.2,0.0,,keep upright,5.1 kg / ~12 L; 6/9 lines weighed from item names
+728253335,PL,FOOD,bike,False,4.4,15,0.9,0.0,,keep upright,4.4 kg / ~15 L; 3/8 lines weighed from item names
+462652823,RS,FOOD,motorbike,True,10.8,60,1.8,0.0,high-value cash,,10.8 kg / ~60 L; 0/1 lines weighed from item names
+987944857,NG,FOOD,bike,False,0.5,1,0.5,0.0,,,0.5 kg / ~1 L; 1/1 lines weighed from item names
+642338743,UA,Q_COMMERCE,bike,False,0.3,5,0.1,0.0,,,0.3 kg / ~5 L; 5/8 lines weighed from item names
+498929952,UA,Q_COMMERCE,bike,False,8.4,10,0.6,0.0,,,8.4 kg / ~10 L; 10/10 lines weighed from item names
+480646067,UA,Q_COMMERCE,bike,False,1.9,2,0.3,0.0,,,1.9 kg / ~2 L; 4/4 lines weighed from item names
+352143045,RO,FOOD,bike,False,1.4,4,1.2,0.0,,,1.4 kg / ~4 L; 0/2 lines weighed from item names
+740092569,NG,FOOD,bike,False,1.4,4,1.0,0.0,,,1.4 kg / ~4 L; 0/2 lines weighed from item names
+716364182,PL,Q_COMMERCE,bike,False,8.4,13,2.5,0.0,,,8.4 kg / ~13 L; 9/11 lines weighed from item names
+577604280,AM,Q_COMMERCE,bike,True,10.1,30,1.5,0.0,,keep upright,10.1 kg / ~30 L; 1/27 lines weighed from item names; 10.1 kg is between bike's safe 9 kg and max 12 kg
+678652936,RS,Q_COMMERCE,bike,False,3.4,5,1.0,0.0,,,3.4 kg / ~5 L; 9/10 lines weighed from item names
+355491197,MA,FOOD,bike,False,1.6,4,0.6,0.0,,keep upright,1.6 kg / ~4 L; 0/4 lines weighed from item names
+310810714,PL,Q_COMMERCE,bike,True,8.3,11,1.0,0.0,zero total,,8.3 kg / ~11 L; 11/12 lines weighed from item names
+874738455,RS,FOOD,bike,False,1.5,4,0.5,0.0,,,1.5 kg / ~4 L; 0/4 lines weighed from item names
+623091150,PT,FOOD,bike,False,2.8,17,0.6,0.0,,,2.8 kg / ~17 L; 0/5 lines weighed from item names
+459352167,PT,Q_COMMERCE,bike,False,5.5,8,1.0,0.0,,keep upright,5.5 kg / ~8 L; 11/13 lines weighed from item names
+628521910,UA,Q_COMMERCE,bike,False,3.2,4,1.0,0.0,,,3.2 kg / ~4 L; 5/5 lines weighed from item names
+959278934,PL,Q_COMMERCE,motorbike,True,18.0,22,5.0,0.0,,,18.0 kg / ~22 L; 16/16 lines weighed from item names; 18.0 kg is between motorbike's safe 12 kg and max 20 kg
+807565878,NG,Q_COMMERCE,e-bike,True,14.9,21,0.7,0.0,age-restricted (ID check),keep upright,14.9 kg / ~21 L; 9/12 lines weighed from item names; 14.9 kg is between e-bike's safe 9 kg and max 15 kg
+369116563,PL,Q_COMMERCE,bike,False,5.3,7,1.0,0.0,,keep upright,5.3 kg / ~7 L; 10/13 lines weighed from item names
+788343256,MD,FOOD,bike,False,1.6,7,0.3,0.0,,keep upright,1.6 kg / ~7 L; 3/10 lines weighed from item names
+935596760,PL,FOOD,bike,False,1.4,12,0.2,0.0,,keep upright,1.4 kg / ~12 L; 0/5 lines weighed from item names
+560338825,NG,Q_COMMERCE,car,False,13.2,16,12.5,0.0,,,13.2 kg / ~16 L; 3/3 lines weighed from item names
+915551970,GE,Q_COMMERCE,bike,True,0.5,3,0.5,0.0,high-value cash,keep upright,0.5 kg / ~3 L; 0/1 lines weighed from item names
+738948444,PT,FOOD,bike,True,3.0,14,0.8,0.0,zero total,,3.0 kg / ~14 L; 0/4 lines weighed from item names
+535683004,NG,FOOD,bike,False,1.4,9,0.5,0.0,,,1.4 kg / ~9 L; 0/3 lines weighed from item names
+553946087,NG,Q_COMMERCE,car,True,69.8,85,4.8,0.0,,,69.8 kg / ~85 L; 5/6 lines weighed from item names; 69.8 kg is between car's safe 40 kg and max 80 kg
+974411702,UA,Q_COMMERCE,bike,False,6.8,8,1.5,0.0,,keep upright,6.8 kg / ~8 L; 2/3 lines weighed from item names
+995214145,PL,Q_COMMERCE,bike,False,5.0,6,0.5,0.0,,,5.0 kg / ~6 L; 1/1 lines weighed from item names
+989542138,NG,FOOD,bike,False,1.8,6,0.9,0.0,,keep upright,1.8 kg / ~6 L; 0/1 lines weighed from item names
+814809889,PL,FOOD,bike,False,1.0,1,1.0,0.0,,,1.0 kg / ~1 L; 1/1 lines weighed from item names
+426169613,RO,Q_COMMERCE,bike,True,7.4,14,2.0,0.0,age-restricted (ID check),,7.4 kg / ~14 L; 9/13 lines weighed from item names
+745592866,PL,Q_COMMERCE,bike,True,10.5,13,0.8,0.0,"age-restricted (ID check), high-value cash",,10.5 kg / ~13 L; 7/7 lines weighed from item names; 10.5 kg is between bike's safe 9 kg and max 12 kg
+860042648,RS,FOOD,bike,False,2.7,18,0.5,0.0,,keep upright,2.7 kg / ~18 L; 0/5 lines weighed from item names
+486486986,PT,Q_COMMERCE,bike,False,7.4,15,1.2,0.0,,,7.4 kg / ~15 L; 13/18 lines weighed from item names
+816469354,NG,FOOD,bike,False,0.6,3,0.6,0.0,,keep upright,0.6 kg / ~3 L; 0/1 lines weighed from item names
+365587975,PT,Q_COMMERCE,bike,False,6.7,10,1.2,0.0,,,6.7 kg / ~10 L; 10/11 lines weighed from item names
+854853177,PL,Q_COMMERCE,car,False,25.3,30,5.0,0.0,,,25.3 kg / ~30 L; 13/13 lines weighed from item names
+700443212,RO,Q_COMMERCE,car,False,12.8,151,12.0,0.0,,,12.8 kg / ~151 L; 2/3 lines weighed from item names
+468767815,MA,Q_COMMERCE,bike,False,0.1,1,0.1,0.0,,,0.1 kg / ~1 L; 0/1 lines weighed from item names
+774812634,KE,FOOD,bike,False,2.8,7,0.6,0.0,,,2.8 kg / ~7 L; 0/5 lines weighed from item names
+423563401,RO,Q_COMMERCE,bike,True,6.4,8,1.5,0.0,age-restricted (ID check),,6.4 kg / ~8 L; 6/6 lines weighed from item names
+961967040,PT,Q_COMMERCE,bike,True,6.5,8,1.0,0.0,age-restricted (ID check),,6.5 kg / ~8 L; 16/16 lines weighed from item names
+990663995,RO,Q_COMMERCE,car,False,30.5,37,15.0,0.0,,,30.5 kg / ~37 L; 2/2 lines weighed from item names
+386960940,NG,FOOD,bike,False,1.2,3,0.4,0.0,,,1.2 kg / ~3 L; 0/1 lines weighed from item names
+493559823,RS,Q_COMMERCE,bike,False,5.3,12,0.3,0.0,,keep upright,5.3 kg / ~12 L; 3/4 lines weighed from item names
+644591608,UA,Q_COMMERCE,bike,True,10.9,15,1.5,0.0,age-restricted (ID check),,10.9 kg / ~15 L; 6/8 lines weighed from item names; 10.9 kg is between bike's safe 9 kg and max 12 kg
+726129351,PL,Q_COMMERCE,bike,False,1.6,12,0.6,0.0,,,1.6 kg / ~12 L; 0/3 lines weighed from item names
+729518477,KZ,Q_COMMERCE,motorbike,True,18.1,23,1.9,0.0,,keep upright,18.1 kg / ~23 L; 8/20 lines weighed from item names; 18.1 kg is between motorbike's safe 12 kg and max 20 kg
+356353628,UA,FOOD,bike,False,1.9,3,0.5,0.0,,keep upright,1.9 kg / ~3 L; 4/5 lines weighed from item names
+712852073,PL,Q_COMMERCE,bike,True,10.8,14,1.0,0.0,zero total,keep upright,10.8 kg / ~14 L; 19/21 lines weighed from item names; 10.8 kg is between bike's safe 9 kg and max 12 kg
+904378370,RO,Q_COMMERCE,bike,True,5.3,9,3.0,0.0,"zero total, age-restricted (ID check)",,5.3 kg / ~9 L; 8/10 lines weighed from item names
+384840344,CI,Q_COMMERCE,car,True,45.8,55,1.5,0.0,,,45.8 kg / ~55 L; 2/2 lines weighed from item names; 45.8 kg is between car's safe 40 kg and max 80 kg
+530927867,UA,Q_COMMERCE,bike,True,11.7,14,1.5,0.0,,,11.7 kg / ~14 L; 7/7 lines weighed from item names; 11.7 kg is between bike's safe 9 kg and max 12 kg
+848173700,KE,FOOD,bike,False,1.2,20,0.1,0.0,,,1.2 kg / ~20 L; 0/1 lines weighed from item names
+636137130,NG,FOOD,bike,False,1.6,4,0.5,0.0,,keep upright,1.6 kg / ~4 L; 0/4 lines weighed from item names
+689023346,UA,Q_COMMERCE,bike,False,0.6,3,0.3,0.0,,,0.6 kg / ~3 L; 0/3 lines weighed from item names
+828426040,KG,FOOD,bike,False,3.7,6,0.6,0.0,,keep upright,3.7 kg / ~6 L; 2/3 lines weighed from item names
+924233925,UA,Q_COMMERCE,bike,False,2.9,27,0.3,0.0,,,2.9 kg / ~27 L; 3/8 lines weighed from item names
+925519392,KG,FOOD,bike,False,1.3,9,0.5,0.0,,keep upright,1.3 kg / ~9 L; 0/3 lines weighed from item names
+959000830,RO,FOOD,bike,False,1.1,8,0.3,0.0,,,1.1 kg / ~8 L; 0/2 lines weighed from item names
+563146774,RO,Q_COMMERCE,bike,True,0.6,12,0.1,0.0,age-restricted (ID check),,0.6 kg / ~12 L; 0/2 lines weighed from item names
+716175501,PL,Q_COMMERCE,bike,False,0.8,2,0.2,0.0,,,0.8 kg / ~2 L; 2/3 lines weighed from item names
+820294582,AM,FOOD,bike,False,5.0,27,0.5,0.0,,keep upright,5.0 kg / ~27 L; 0/5 lines weighed from item names
+569093385,UA,FOOD,bike,False,2.4,3,1.1,0.0,,,2.4 kg / ~3 L; 5/5 lines weighed from item names
+538607418,RS,FOOD,bike,False,1.7,12,0.5,0.0,,,1.7 kg / ~12 L; 0/4 lines weighed from item names
+881130942,PL,Q_COMMERCE,bike,False,3.5,4,0.5,0.0,,,3.5 kg / ~4 L; 14/14 lines weighed from item names
+671201591,PT,Q_COMMERCE,bike,False,6.9,9,1.5,0.0,,,6.9 kg / ~9 L; 7/8 lines weighed from item names
+588254091,RS,Q_COMMERCE,e-bike,True,14.0,19,2.0,0.0,,,14.0 kg / ~19 L; 18/25 lines weighed from item names; 14.0 kg is between e-bike's safe 9 kg and max 15 kg
+827277289,PT,Q_COMMERCE,e-bike,True,13.0,16,1.5,0.0,,,13.1 kg / ~16 L; 2/3 lines weighed from item names; 13.1 kg is between e-bike's safe 9 kg and max 15 kg
+693212998,RO,Q_COMMERCE,bike,False,6.1,7,1.5,0.0,,,6.1 kg / ~7 L; 4/4 lines weighed from item names
+974728266,PL,Q_COMMERCE,bike,True,10.0,14,1.5,0.0,,,10.0 kg / ~14 L; 18/21 lines weighed from item names; 10.0 kg is between bike's safe 9 kg and max 12 kg
+774341660,PT,Q_COMMERCE,bike,True,8.0,13,1.0,0.0,age-restricted (ID check),keep upright,8.0 kg / ~13 L; 7/9 lines weighed from item names
+470609842,UA,Q_COMMERCE,bike,False,5.6,7,1.5,0.0,,,5.6 kg / ~7 L; 4/4 lines weighed from item names
+579288163,PT,Q_COMMERCE,e-bike,True,12.8,17,1.5,0.0,,keep upright,12.8 kg / ~17 L; 11/13 lines weighed from item names; 12.8 kg is between e-bike's safe 9 kg and max 15 kg
+983186566,RO,Q_COMMERCE,e-bike,True,13.8,17,0.8,0.0,age-restricted (ID check),,13.8 kg / ~17 L; 2/2 lines weighed from item names; 13.8 kg is between e-bike's safe 9 kg and max 15 kg
+818923590,RO,Q_COMMERCE,bike,False,7.7,12,1.0,0.0,,,7.7 kg / ~12 L; 7/9 lines weighed from item names
+579368715,PT,Q_COMMERCE,car,True,32.6,39,9.0,0.0,age-restricted (ID check),keep upright,32.5 kg / ~39 L; 12/13 lines weighed from item names
+648524687,RO,Q_COMMERCE,bike,False,0.5,4,0.1,0.0,,,0.5 kg / ~4 L; 0/4 lines weighed from item names
+864126190,PL,Q_COMMERCE,bike,True,8.1,10,1.0,0.0,zero total,,8.1 kg / ~10 L; 11/11 lines weighed from item names
+663858998,RO,Q_COMMERCE,bike,False,2.8,9,0.2,0.0,,keep upright,2.8 kg / ~9 L; 2/3 lines weighed from item names
+611113148,PL,Q_COMMERCE,bike,False,5.8,7,1.0,0.0,,,5.8 kg / ~7 L; 14/14 lines weighed from item names
+339161495,PT,Q_COMMERCE,bike,True,9.8,14,1.0,0.0,,keep upright,9.8 kg / ~14 L; 7/9 lines weighed from item names; 9.8 kg is between bike's safe 9 kg and max 12 kg
+666974142,RO,Q_COMMERCE,bike,True,10.7,22,2.0,0.0,age-restricted (ID check),,10.7 kg / ~22 L; 9/10 lines weighed from item names; 10.7 kg is between bike's safe 9 kg and max 12 kg
+477847319,PL,Q_COMMERCE,motorbike,True,15.6,23,1.3,0.0,,keep upright,15.6 kg / ~23 L; 29/31 lines weighed from item names; 15.6 kg is between motorbike's safe 12 kg and max 20 kg
+742738239,NG,FOOD,bike,False,1.8,6,1.0,0.0,,,1.8 kg / ~6 L; 0/2 lines weighed from item names
+394312457,RO,Q_COMMERCE,bike,False,2.4,9,1.0,0.0,,keep upright,2.4 kg / ~9 L; 0/3 lines weighed from item names
+779230651,PL,Q_COMMERCE,bike,False,1.3,2,1.0,0.0,,,1.3 kg / ~2 L; 3/3 lines weighed from item names
+867568934,PT,Q_COMMERCE,bike,True,9.1,11,1.5,0.0,,,9.1 kg / ~11 L; 10/10 lines weighed from item names; 9.1 kg is between bike's safe 9 kg and max 12 kg
+385757042,NG,FOOD,bike,False,2.4,5,0.7,0.0,,keep upright,2.4 kg / ~5 L; 0/4 lines weighed from item names
+377073524,GE,Q_COMMERCE,bike,False,0.7,2,0.4,0.0,,,0.7 kg / ~2 L; 0/2 lines weighed from item names
+474909651,UA,Q_COMMERCE,bike,False,0.6,3,0.2,0.0,,,0.6 kg / ~3 L; 2/3 lines weighed from item names
+880480642,RO,Q_COMMERCE,bike,False,7.2,9,1.8,0.0,,,7.2 kg / ~9 L; 14/15 lines weighed from item names
+753464111,NG,Q_COMMERCE,bike,False,4.7,3,4.6,0.0,,keep upright,4.7 kg / ~3 L; 1/2 lines weighed from item names
+584853581,AM,Q_COMMERCE,bike,False,7.4,15,1.6,0.0,,keep upright,7.4 kg / ~15 L; 0/5 lines weighed from item names
+430274941,RO,Q_COMMERCE,bike,False,2.0,2,0.1,0.0,,,2.0 kg / ~2 L; 2/2 lines weighed from item names
+755262756,KG,FOOD,bike,False,3.0,4,0.9,0.0,,,3.0 kg / ~4 L; 3/3 lines weighed from item names
+537814678,HR,Q_COMMERCE,bike,False,5.8,13,3.0,0.0,,,5.8 kg / ~13 L; 10/15 lines weighed from item names
+486744047,GE,Q_COMMERCE,bike,False,0.2,16,0.0,0.0,,,0.2 kg / ~16 L; 0/1 lines weighed from item names
+856417878,PL,Q_COMMERCE,bike,False,8.6,11,1.0,0.0,,keep upright,8.6 kg / ~11 L; 14/15 lines weighed from item names
+536517700,RS,Q_COMMERCE,bike,False,0.8,2,0.2,0.0,,,0.8 kg / ~2 L; 2/3 lines weighed from item names
+479727874,KE,Q_COMMERCE,bike,False,0.1,0,0.0,0.0,,,0.1 kg / ~0 L; 1/1 lines weighed from item names
+485368791,MA,FOOD,bike,False,2.7,6,1.0,0.0,,keep upright,2.7 kg / ~6 L; 0/4 lines weighed from item names
+879927675,PL,Q_COMMERCE,bike,False,3.3,4,0.9,0.0,,,3.3 kg / ~4 L; 4/8 lines weighed from item names
+975221697,RO,Q_COMMERCE,car,False,26.5,33,12.0,0.0,,,26.5 kg / ~33 L; 13/14 lines weighed from item names
+595068752,RO,FOOD,bike,False,1.8,5,0.3,0.0,,,1.8 kg / ~5 L; 0/3 lines weighed from item names
+766520773,NG,FOOD,bike,False,1.8,6,0.9,0.0,,keep upright,1.8 kg / ~6 L; 0/1 lines weighed from item names
+358072420,RO,Q_COMMERCE,bike,False,2.5,3,0.8,0.0,,,2.5 kg / ~3 L; 4/4 lines weighed from item names
+929933138,PL,Q_COMMERCE,bike,True,8.0,10,0.5,0.0,age-restricted (ID check),,8.0 kg / ~10 L; 1/1 lines weighed from item names
+544768348,RO,Q_COMMERCE,bike,False,5.3,8,1.0,0.0,,,5.3 kg / ~8 L; 7/10 lines weighed from item names
+828843795,KE,Q_COMMERCE,e-bike,True,13.2,27,10.0,0.0,,,13.2 kg / ~27 L; 6/9 lines weighed from item names; 13.2 kg is between e-bike's safe 9 kg and max 15 kg
+448943525,UA,FOOD,bike,False,4.6,14,0.8,0.0,,keep upright,4.6 kg / ~14 L; 1/8 lines weighed from item names
+331396657,MA,Q_COMMERCE,car,False,15.3,150,15.0,0.0,,keep upright,15.3 kg / ~150 L; 2/3 lines weighed from item names
+636637080,RO,Q_COMMERCE,bike,False,8.2,13,1.0,0.0,,keep upright,8.2 kg / ~13 L; 14/17 lines weighed from item names
+337452474,MA,Q_COMMERCE,bike,False,0.1,1,0.1,0.0,,,0.1 kg / ~1 L; 0/1 lines weighed from item names
+544506952,KG,FOOD,bike,False,2.0,2,0.3,0.0,,,2.0 kg / ~2 L; 5/5 lines weighed from item names
+918225934,NG,FOOD,bike,False,1.1,6,0.6,0.0,,keep upright,1.1 kg / ~6 L; 0/2 lines weighed from item names
+729395380,RO,Q_COMMERCE,e-bike,True,14.5,17,2.0,0.0,,,14.5 kg / ~17 L; 11/11 lines weighed from item names; 14.5 kg is between e-bike's safe 9 kg and max 15 kg
+803890621,GE,FOOD,bike,False,2.6,17,0.1,0.0,,,2.5 kg / ~17 L; 0/1 lines weighed from item names
+596945956,PL,Q_COMMERCE,car,False,2.2,151,1.5,0.0,,,2.2 kg / ~151 L; 2/3 lines weighed from item names
+368967457,NG,Q_COMMERCE,bike,False,1.5,3,0.2,0.0,,,1.5 kg / ~3 L; 4/5 lines weighed from item names
+881119167,PT,Q_COMMERCE,bike,False,8.7,10,1.0,0.0,,,8.7 kg / ~10 L; 16/16 lines weighed from item names
+654341256,PL,Q_COMMERCE,bike,True,9.8,12,1.0,0.0,age-restricted (ID check),,9.8 kg / ~12 L; 8/8 lines weighed from item names; 9.8 kg is between bike's safe 9 kg and max 12 kg
+552455923,NG,FOOD,bike,False,1.5,5,0.5,0.0,,keep upright,1.5 kg / ~5 L; 0/2 lines weighed from item names
+900633290,PL,Q_COMMERCE,bike,False,0.6,4,0.3,0.0,,,0.7 kg / ~4 L; 0/4 lines weighed from item names
+452851268,CI,Q_COMMERCE,bike,False,2.5,4,0.4,0.0,,,2.5 kg / ~4 L; 10/11 lines weighed from item names
+944063134,UA,FOOD,bike,False,1.1,1,0.3,0.0,,,1.1 kg / ~1 L; 4/4 lines weighed from item names
+884621913,NG,FOOD,bike,False,0.8,5,0.5,0.0,,keep upright,0.8 kg / ~5 L; 0/3 lines weighed from item names
+383807219,RS,Q_COMMERCE,bike,False,8.5,10,0.8,0.0,,,8.5 kg / ~10 L; 2/2 lines weighed from item names
+727602868,NG,Q_COMMERCE,bike,True,5.8,7,0.3,0.0,abnormal quantity,,5.8 kg / ~7 L; 3/3 lines weighed from item names
+810531353,PT,Q_COMMERCE,e-bike,True,12.0,19,2.0,0.0,,,12.0 kg / ~19 L; 12/13 lines weighed from item names; 12.0 kg is between e-bike's safe 9 kg and max 15 kg
+875632155,TN,FOOD,bike,False,2.2,7,1.0,0.0,,keep upright,2.2 kg / ~7 L; 0/3 lines weighed from item names
+309573363,RS,FOOD,bike,True,1.8,7,0.3,0.0,high-value cash,keep upright,1.8 kg / ~7 L; 0/4 lines weighed from item names
+344333415,PT,Q_COMMERCE,bike,True,9.6,13,1.0,0.0,,keep upright,9.6 kg / ~13 L; 17/20 lines weighed from item names; 9.6 kg is between bike's safe 9 kg and max 12 kg
+566722263,MA,Q_COMMERCE,bike,False,1.5,10,0.1,0.0,,,1.5 kg / ~10 L; 0/2 lines weighed from item names
+461867020,PL,Q_COMMERCE,bike,False,8.9,11,3.8,0.0,,,8.9 kg / ~11 L; 13/13 lines weighed from item names
+719614654,CI,FOOD,bike,False,1.6,7,0.6,0.0,,,1.6 kg / ~7 L; 0/5 lines weighed from item names
+683423866,RO,FOOD,bike,False,3.9,11,0.5,0.0,,,3.9 kg / ~11 L; 2/10 lines weighed from item names
+525297622,UA,Q_COMMERCE,car,True,22.6,27,2.0,0.0,age-restricted (ID check),,22.6 kg / ~27 L; 3/3 lines weighed from item names
+308163956,NG,Q_COMMERCE,car,False,25.2,30,9.0,0.0,,,25.2 kg / ~30 L; 3/3 lines weighed from item names
+955562259,RS,FOOD,bike,False,1.1,12,0.2,0.0,,,1.1 kg / ~12 L; 0/6 lines weighed from item names
+748272600,CI,Q_COMMERCE,bike,True,10.0,14,0.5,0.0,,,10.0 kg / ~14 L; 8/9 lines weighed from item names; 10.0 kg is between bike's safe 9 kg and max 12 kg
+356456807,PT,Q_COMMERCE,motorbike,True,16.1,25,9.0,0.0,,,16.1 kg / ~25 L; 8/10 lines weighed from item names; 16.1 kg is between motorbike's safe 12 kg and max 20 kg
+313506187,PL,Q_COMMERCE,bike,False,2.6,3,0.2,0.0,,,2.6 kg / ~3 L; 29/29 lines weighed from item names
+574692483,PL,Q_COMMERCE,bike,False,3.4,4,0.7,0.0,,,3.4 kg / ~4 L; 9/9 lines weighed from item names
+663724472,NG,FOOD,bike,False,1.8,5,0.3,0.0,,,1.8 kg / ~5 L; 0/1 lines weighed from item names
+474223721,NG,FOOD,bike,False,2.5,3,2.5,0.0,,,2.5 kg / ~3 L; 0/1 lines weighed from item names
+485343921,NG,FOOD,bike,False,0.7,2,0.3,0.0,,,0.7 kg / ~2 L; 0/2 lines weighed from item names
+560449642,MA,Q_COMMERCE,bike,False,8.6,13,2.5,0.0,,,8.6 kg / ~13 L; 4/8 lines weighed from item names
+644972463,ME,FOOD,bike,False,1.2,5,0.3,0.0,,,1.2 kg / ~5 L; 0/5 lines weighed from item names
+981450699,PL,Q_COMMERCE,car,False,30.6,37,5.0,0.0,,,30.6 kg / ~37 L; 3/3 lines weighed from item names
+836496682,RO,Q_COMMERCE,bike,False,0.8,3,0.8,0.0,,keep upright,0.8 kg / ~3 L; 0/1 lines weighed from item names
+501704438,RO,Q_COMMERCE,motorbike,True,18.3,22,8.5,0.0,,,18.3 kg / ~22 L; 4/4 lines weighed from item names; 18.3 kg is between motorbike's safe 12 kg and max 20 kg
+768870887,PL,Q_COMMERCE,car,True,36.8,43,9.0,0.0,zero total,keep upright,36.8 kg / ~43 L; 14/15 lines weighed from item names
+857852872,RS,Q_COMMERCE,car,False,36.0,43,15.0,0.0,,,36.0 kg / ~43 L; 3/3 lines weighed from item names
+816865881,UG,FOOD,bike,False,1.6,5,0.4,0.0,,keep upright,1.7 kg / ~5 L; 0/5 lines weighed from item names
+845157805,RO,Q_COMMERCE,bike,False,3.2,4,0.3,0.0,,,3.2 kg / ~4 L; 3/3 lines weighed from item names
+432617312,UA,Q_COMMERCE,motorbike,True,17.8,50,1.0,0.0,,keep upright,17.8 kg / ~50 L; 2/4 lines weighed from item names; 17.8 kg is between motorbike's safe 12 kg and max 20 kg
+586268570,PT,Q_COMMERCE,bike,True,9.5,13,3.0,0.0,,,9.5 kg / ~13 L; 16/18 lines weighed from item names; 9.5 kg is between bike's safe 9 kg and max 12 kg
+755661078,RS,FOOD,bike,False,1.8,6,0.8,0.0,,keep upright,1.8 kg / ~6 L; 0/5 lines weighed from item names
+958088794,UA,FOOD,bike,False,2.8,7,1.2,0.0,,,2.9 kg / ~7 L; 0/4 lines weighed from item names
+757065762,CI,FOOD,bike,True,2.4,12,0.7,0.0,high-value cash,,2.5 kg / ~12 L; 0/3 lines weighed from item names
+773723766,PL,Q_COMMERCE,bike,True,10.7,15,1.5,0.0,,,10.7 kg / ~15 L; 11/13 lines weighed from item names; 10.7 kg is between bike's safe 9 kg and max 12 kg
+564846386,RS,Q_COMMERCE,bike,False,3.4,12,2.5,0.0,,,3.4 kg / ~12 L; 1/3 lines weighed from item names
+619669148,KG,FOOD,bike,False,1.5,2,0.5,0.0,,,1.5 kg / ~2 L; 3/3 lines weighed from item names
+459556985,KE,Q_COMMERCE,car,True,21.6,26,5.0,0.0,zero total,,21.6 kg / ~26 L; 13/14 lines weighed from item names
+852748614,NG,FOOD,bike,False,2.4,9,0.8,0.0,,,2.4 kg / ~9 L; 0/1 lines weighed from item names
+762747849,PL,Q_COMMERCE,bike,False,6.8,8,1.0,0.0,,,6.8 kg / ~8 L; 13/13 lines weighed from item names
+859266563,PT,Q_COMMERCE,bike,False,0.4,6,0.1,0.0,,,0.4 kg / ~6 L; 2/3 lines weighed from item names
+811592465,TN,Q_COMMERCE,car,False,26.9,34,5.0,0.0,,,26.9 kg / ~34 L; 7/8 lines weighed from item names
+320451081,PL,FOOD,bike,False,1.0,1,0.8,0.0,,,1.0 kg / ~1 L; 2/2 lines weighed from item names
+997479393,RO,Q_COMMERCE,bike,True,3.4,6,0.5,0.0,age-restricted (ID check),,3.4 kg / ~6 L; 8/9 lines weighed from item names
+300647878,UA,FOOD,bike,False,2.4,5,0.5,0.0,,keep upright,2.5 kg / ~5 L; 3/5 lines weighed from item names
+729505547,NG,FOOD,bike,False,2.6,7,0.9,0.0,,,2.6 kg / ~7 L; 0/5 lines weighed from item names
+811050466,CI,FOOD,bike,True,3.8,15,0.5,0.0,high-value cash,keep upright,3.8 kg / ~15 L; 0/8 lines weighed from item names
+859623532,PT,Q_COMMERCE,bike,False,6.4,12,1.0,0.0,,,6.4 kg / ~12 L; 8/10 lines weighed from item names
+521200736,RO,Q_COMMERCE,bike,False,1.3,3,0.5,0.0,,,1.3 kg / ~3 L; 7/8 lines weighed from item names
+995847951,PL,Q_COMMERCE,car,False,12.4,150,12.0,0.0,,keep upright,12.4 kg / ~150 L; 2/3 lines weighed from item names
+975818660,NG,FOOD,bike,False,0.5,1,0.5,0.0,,keep upright,0.5 kg / ~1 L; 0/1 lines weighed from item names
+969664676,PL,Q_COMMERCE,bike,False,0.6,5,0.2,0.0,,,0.6 kg / ~5 L; 2/3 lines weighed from item names
+660525590,RO,Q_COMMERCE,bike,False,3.7,12,0.3,0.0,,,3.7 kg / ~12 L; 0/2 lines weighed from item names
+964527831,RS,Q_COMMERCE,bike,False,5.2,6,1.5,0.0,,,5.2 kg / ~6 L; 3/3 lines weighed from item names
+313392150,PL,Q_COMMERCE,bike,True,10.0,16,1.5,0.0,high-value cash,,10.0 kg / ~16 L; 19/23 lines weighed from item names; 10.0 kg is between bike's safe 9 kg and max 12 kg
+389858629,UA,Q_COMMERCE,bike,True,9.1,5,1.8,0.0,,keep upright,9.1 kg / ~5 L; 1/2 lines weighed from item names; 9.1 kg is between bike's safe 9 kg and max 12 kg
+344114995,UA,Q_COMMERCE,car,False,36.0,43,15.0,0.0,,,36.0 kg / ~43 L; 3/3 lines weighed from item names
+503967798,PL,Q_COMMERCE,bike,False,7.1,10,0.5,0.1,,,7.1 kg / ~10 L; 3/6 lines weighed from item names
+610553256,RO,FOOD,bike,True,5.1,25,0.5,0.0,high-value cash,keep upright,5.1 kg / ~25 L; 0/13 lines weighed from item names
+332438569,PL,Q_COMMERCE,bike,False,2.8,3,0.5,0.0,,,2.9 kg / ~3 L; 8/8 lines weighed from item names
+534219568,RO,Q_COMMERCE,car,False,25.3,30,5.0,0.0,,,25.3 kg / ~30 L; 3/3 lines weighed from item names
+310432164,PT,Q_COMMERCE,bike,True,10.1,14,3.8,0.0,,keep upright,10.1 kg / ~14 L; 5/10 lines weighed from item names; 10.1 kg is between bike's safe 9 kg and max 12 kg
+568296460,RO,Q_COMMERCE,bike,False,7.5,11,0.6,0.12,,,7.5 kg / ~11 L; 3/6 lines weighed from item names
+854281496,AM,FOOD,bike,False,1.8,22,0.1,0.0,,,1.8 kg / ~22 L; 0/1 lines weighed from item names
+529836535,MA,Q_COMMERCE,bike,True,10.5,29,1.0,0.0,,,10.5 kg / ~29 L; 3/4 lines weighed from item names; 10.5 kg is between bike's safe 9 kg and max 12 kg
+381913305,NG,Q_COMMERCE,bike,False,1.6,40,0.0,0.0,,,1.6 kg / ~40 L; 0/1 lines weighed from item names
+545102584,NG,FOOD,bike,False,2.0,6,1.0,0.0,,,2.0 kg / ~6 L; 0/1 lines weighed from item names
+932844184,KG,FOOD,bike,True,2.2,18,1.0,0.0,high-value cash,,2.2 kg / ~18 L; 0/10 lines weighed from item names
+906719426,MD,FOOD,bike,False,2.5,8,0.5,0.0,,,2.5 kg / ~8 L; 0/6 lines weighed from item names
+644406056,RO,Q_COMMERCE,bike,False,2.4,7,0.2,0.0,,,2.4 kg / ~7 L; 2/6 lines weighed from item names
+532249338,MA,FOOD,bike,False,1.4,8,0.3,0.0,,keep upright,1.4 kg / ~8 L; 0/2 lines weighed from item names
+960839812,PT,Q_COMMERCE,e-bike,True,13.2,16,9.0,0.0,,,13.2 kg / ~16 L; 4/4 lines weighed from item names; 13.2 kg is between e-bike's safe 9 kg and max 15 kg
+845314000,PL,Q_COMMERCE,bike,True,10.1,17,2.0,0.0,,keep upright,10.1 kg / ~17 L; 13/15 lines weighed from item names; 10.1 kg is between bike's safe 9 kg and max 12 kg
+620798279,RO,Q_COMMERCE,bike,False,8.7,40,3.0,0.0,,,8.7 kg / ~40 L; 2/4 lines weighed from item names
+335060831,RO,Q_COMMERCE,bike,False,1.7,6,0.8,0.0,,keep upright,1.7 kg / ~6 L; 0/4 lines weighed from item names
+854160803,KG,FOOD,bike,False,1.8,10,0.3,0.0,,,1.8 kg / ~10 L; 2/4 lines weighed from item names
+433655697,MA,Q_COMMERCE,motorbike,True,12.4,15,12.0,0.0,,,12.3 kg / ~15 L; 3/3 lines weighed from item names; 12.3 kg is between motorbike's safe 12 kg and max 20 kg
+698559726,UA,Q_COMMERCE,bike,False,7.0,8,2.0,0.0,,,7.0 kg / ~8 L; 7/7 lines weighed from item names
+499442653,PL,Q_COMMERCE,car,False,22.1,27,1.8,0.0,,,22.1 kg / ~27 L; 19/19 lines weighed from item names
+798643802,RO,Q_COMMERCE,bike,False,8.9,11,2.0,0.0,,,8.9 kg / ~11 L; 11/12 lines weighed from item names
+379546524,PL,Q_COMMERCE,bike,True,9.3,11,1.0,0.0,"zero total, age-restricted (ID check)",,9.3 kg / ~11 L; 11/11 lines weighed from item names; 9.3 kg is between bike's safe 9 kg and max 12 kg
+432639217,RO,FOOD,bike,False,2.4,14,0.5,0.0,,,2.4 kg / ~14 L; 1/7 lines weighed from item names
+834200406,UA,Q_COMMERCE,bike,False,6.6,12,1.6,0.0,,keep upright,6.6 kg / ~12 L; 13/18 lines weighed from item names
+479326426,PL,Q_COMMERCE,bike,True,10.3,13,2.5,0.0,,keep upright,10.3 kg / ~13 L; 21/22 lines weighed from item names; 10.3 kg is between bike's safe 9 kg and max 12 kg
+504708082,PL,FOOD,bike,False,2.5,7,0.4,0.0,,keep upright,2.5 kg / ~7 L; 0/7 lines weighed from item names
+456044488,PL,Q_COMMERCE,bike,False,2.3,9,0.5,0.0,,,2.3 kg / ~9 L; 6/10 lines weighed from item names
+407856809,NG,FOOD,bike,False,5.9,25,0.6,0.0,,keep upright,5.9 kg / ~25 L; 0/5 lines weighed from item names
+718370792,PL,Q_COMMERCE,bike,False,5.8,8,1.0,0.0,,,5.8 kg / ~8 L; 10/11 lines weighed from item names
+509534874,PL,Q_COMMERCE,bike,True,10.0,15,1.0,0.0,zero total,keep upright,10.0 kg / ~15 L; 16/21 lines weighed from item names; 10.0 kg is between bike's safe 9 kg and max 12 kg
+904083565,KG,FOOD,bike,False,1.7,2,0.5,0.0,,,1.7 kg / ~2 L; 5/5 lines weighed from item names
+876420804,PL,Q_COMMERCE,bike,False,4.0,5,1.0,0.0,,,4.0 kg / ~5 L; 11/11 lines weighed from item names
+343611736,PL,Q_COMMERCE,bike,True,11.4,14,2.0,0.0,,,11.4 kg / ~14 L; 14/14 lines weighed from item names; 11.4 kg is between bike's safe 9 kg and max 12 kg
+663983126,UA,Q_COMMERCE,bike,False,3.5,9,0.3,0.0,,,3.5 kg / ~9 L; 6/7 lines weighed from item names
+495550566,MA,FOOD,motorbike,True,17.6,26,1.5,0.0,high-value cash,keep upright,17.6 kg / ~26 L; 2/3 lines weighed from item names; 17.6 kg is between motorbike's safe 12 kg and max 20 kg
+676443937,GE,Q_COMMERCE,bike,False,4.2,17,0.2,0.0,,,4.2 kg / ~17 L; 0/1 lines weighed from item names
+799081489,NG,Q_COMMERCE,motorbike,True,18.0,22,1.5,0.0,,,18.0 kg / ~22 L; 2/2 lines weighed from item names; 18.0 kg is between motorbike's safe 12 kg and max 20 kg
+930361036,CI,FOOD,bike,False,0.8,6,0.5,0.0,,,0.8 kg / ~6 L; 0/2 lines weighed from item names
+535845622,RO,Q_COMMERCE,e-bike,True,12.9,16,1.0,0.0,,keep upright,12.9 kg / ~16 L; 16/17 lines weighed from item names; 12.9 kg is between e-bike's safe 9 kg and max 15 kg
+796728450,PL,Q_COMMERCE,bike,False,6.2,7,2.0,0.0,,,6.2 kg / ~7 L; 6/6 lines weighed from item names
+900784020,RO,Q_COMMERCE,bike,False,4.2,8,1.8,0.0,,,4.2 kg / ~8 L; 10/11 lines weighed from item names
+928523197,KG,FOOD,bike,False,2.1,2,1.0,0.0,,,2.1 kg / ~2 L; 5/5 lines weighed from item names
+317838292,RS,Q_COMMERCE,bike,False,1.2,10,1.2,0.0,,keep upright,1.2 kg / ~10 L; 0/1 lines weighed from item names
+633401505,RO,Q_COMMERCE,car,False,15.5,151,15.0,0.0,,keep upright,15.5 kg / ~151 L; 2/3 lines weighed from item names
+563318735,RS,FOOD,bike,False,1.0,2,0.4,0.0,,,1.0 kg / ~2 L; 2/3 lines weighed from item names
+909450203,PL,Q_COMMERCE,bike,True,11.8,17,1.5,0.0,,keep upright,11.8 kg / ~17 L; 18/21 lines weighed from item names; 11.8 kg is between bike's safe 9 kg and max 12 kg
+522575114,UA,Q_COMMERCE,bike,True,7.5,10,0.5,0.0,age-restricted (ID check),,7.5 kg / ~10 L; 10/11 lines weighed from item names
+398753315,RO,FOOD,bike,False,2.2,15,0.5,0.0,,keep upright,2.2 kg / ~15 L; 0/6 lines weighed from item names
+482444899,PL,Q_COMMERCE,bike,True,10.1,12,1.5,0.0,zero total,,10.1 kg / ~12 L; 22/22 lines weighed from item names; 10.1 kg is between bike's safe 9 kg and max 12 kg
+802151483,PL,Q_COMMERCE,bike,False,3.6,5,0.6,0.0,,,3.6 kg / ~5 L; 6/7 lines weighed from item names
+424035239,UA,Q_COMMERCE,bike,False,4.4,5,2.0,0.0,,,4.5 kg / ~5 L; 5/5 lines weighed from item names
+603752545,RO,FOOD,bike,False,6.0,29,0.8,0.0,,keep upright,6.0 kg / ~29 L; 1/11 lines weighed from item names
+365275658,PL,Q_COMMERCE,bike,False,4.5,5,1.0,0.0,,,4.5 kg / ~5 L; 17/17 lines weighed from item names
+836508485,CI,Q_COMMERCE,bike,True,9.4,11,1.5,0.0,,,9.4 kg / ~11 L; 2/2 lines weighed from item names; 9.4 kg is between bike's safe 9 kg and max 12 kg
+370297660,RS,Q_COMMERCE,bike,False,5.1,6,0.2,0.0,,,5.1 kg / ~6 L; 4/4 lines weighed from item names
+976607501,HR,FOOD,bike,False,2.2,14,1.5,0.0,,,2.2 kg / ~14 L; 0/3 lines weighed from item names
+541504275,UA,FOOD,bike,False,5.2,6,1.6,0.0,,,5.2 kg / ~6 L; 2/2 lines weighed from item names
+578690758,UA,Q_COMMERCE,bike,False,6.2,7,5.0,0.0,,,6.2 kg / ~7 L; 6/6 lines weighed from item names
+456271506,UA,Q_COMMERCE,bike,True,3.6,8,0.5,0.0,age-restricted (ID check),,3.6 kg / ~8 L; 4/6 lines weighed from item names
+603911978,HR,Q_COMMERCE,bike,False,2.9,3,0.8,0.0,,,2.9 kg / ~3 L; 2/2 lines weighed from item names
+593497316,UA,Q_COMMERCE,bike,False,5.9,7,1.5,0.0,,,5.9 kg / ~7 L; 4/4 lines weighed from item names
+887388700,CI,Q_COMMERCE,car,False,32.3,52,1.5,0.0,,,32.3 kg / ~52 L; 6/7 lines weighed from item names
+842257695,PL,Q_COMMERCE,e-bike,True,12.4,15,5.0,0.0,,,12.4 kg / ~15 L; 15/15 lines weighed from item names; 12.4 kg is between e-bike's safe 9 kg and max 15 kg
+596686420,PL,FOOD,bike,False,1.0,4,0.5,0.0,,keep upright,1.0 kg / ~4 L; 0/2 lines weighed from item names
+751678914,MA,Q_COMMERCE,car,False,15.0,18,15.0,0.0,,,15.0 kg / ~18 L; 1/1 lines weighed from item names
+756036800,UA,FOOD,bike,False,2.0,2,0.5,0.0,,,2.0 kg / ~2 L; 6/6 lines weighed from item names
+751116242,CI,FOOD,bike,True,4.8,15,0.5,0.0,high-value cash,keep upright,4.8 kg / ~15 L; 0/9 lines weighed from item names
+816383724,PL,Q_COMMERCE,bike,False,1.9,2,1.0,0.0,,,1.9 kg / ~2 L; 10/10 lines weighed from item names
+724374461,UA,Q_COMMERCE,bike,False,5.0,6,1.0,0.0,,,5.0 kg / ~6 L; 6/6 lines weighed from item names
+945312041,PL,Q_COMMERCE,bike,False,4.0,5,1.0,0.0,,,4.0 kg / ~5 L; 8/8 lines weighed from item names
+844693676,RO,Q_COMMERCE,bike,True,10.3,19,1.0,0.0,,,10.3 kg / ~19 L; 11/16 lines weighed from item names; 10.3 kg is between bike's safe 9 kg and max 12 kg
+697329183,RO,FOOD,bike,False,8.6,29,0.3,0.0,,,8.6 kg / ~29 L; 0/2 lines weighed from item names
+790049715,PL,Q_COMMERCE,bike,False,6.8,9,1.4,0.0,,keep upright,6.8 kg / ~9 L; 22/23 lines weighed from item names
+987548831,ME,Q_COMMERCE,car,True,54.0,65,1.5,0.0,,,54.0 kg / ~65 L; 1/1 lines weighed from item names; 54.0 kg is between car's safe 40 kg and max 80 kg
+345673891,MA,Q_COMMERCE,bike,True,0.9,1,0.2,0.0,high-value cash,,0.9 kg / ~1 L; 3/3 lines weighed from item names
+753398504,CI,Q_COMMERCE,bike,False,0.3,1,0.3,0.0,,,0.3 kg / ~1 L; 0/1 lines weighed from item names
+939054146,PL,Q_COMMERCE,bike,True,9.1,11,1.5,0.0,,keep upright,9.1 kg / ~11 L; 2/3 lines weighed from item names; 9.1 kg is between bike's safe 9 kg and max 12 kg
+476645551,PT,Q_COMMERCE,motorbike,True,15.6,22,1.0,0.0,,keep upright,15.6 kg / ~22 L; 25/29 lines weighed from item names; 15.6 kg is between motorbike's safe 12 kg and max 20 kg
+883584449,PL,Q_COMMERCE,bike,False,6.4,8,0.2,0.0,,,6.4 kg / ~8 L; 4/4 lines weighed from item names
+905888485,NG,FOOD,bike,False,0.9,4,0.3,0.0,,keep upright,0.9 kg / ~4 L; 0/2 lines weighed from item names
+392045862,RS,Q_COMMERCE,bike,True,0.0,0,0.0,1.0,,,0.0 kg / ~0 L; 0/1 lines weighed from item names; 100% of the weight is guessed
+926025654,KG,FOOD,bike,False,3.4,8,0.3,0.0,,,3.3 kg / ~8 L; 1/3 lines weighed from item names
+745774316,NG,Q_COMMERCE,bike,False,0.1,0,0.1,0.0,,,0.1 kg / ~0 L; 1/1 lines weighed from item names
+613314614,RO,Q_COMMERCE,e-bike,True,14.6,19,4.0,0.0,"zero total, age-restricted (ID check)",keep upright,14.6 kg / ~19 L; 8/10 lines weighed from item names; 14.6 kg is between e-bike's safe 9 kg and max 15 kg
+836052145,NG,Q_COMMERCE,bike,True,11.0,13,0.6,0.0,,,11.0 kg / ~13 L; 4/4 lines weighed from item names; 11.0 kg is between bike's safe 9 kg and max 12 kg
+322850295,NG,FOOD,bike,False,1.2,3,0.4,0.0,,,1.2 kg / ~3 L; 0/2 lines weighed from item names
+363946243,GE,Q_COMMERCE,bike,False,0.3,1,0.3,0.0,,,0.3 kg / ~1 L; 0/1 lines weighed from item names
+600183866,PT,Q_COMMERCE,bike,True,10.8,16,2.0,0.0,,keep upright,10.8 kg / ~16 L; 6/9 lines weighed from item names; 10.8 kg is between bike's safe 9 kg and max 12 kg
+789144721,RS,Q_COMMERCE,bike,False,1.7,2,0.1,0.0,,,1.7 kg / ~2 L; 8/8 lines weighed from item names
+764381308,PL,FOOD,bike,False,3.3,15,1.2,0.0,,keep upright,3.3 kg / ~15 L; 0/7 lines weighed from item names
+812531689,CI,FOOD,bike,False,1.4,4,1.2,0.0,,,1.4 kg / ~4 L; 0/2 lines weighed from item names
+982069582,UA,FOOD,bike,False,1.9,3,0.3,0.0,,,1.9 kg / ~3 L; 11/12 lines weighed from item names
+720567001,NG,Q_COMMERCE,bike,False,2.2,3,0.3,0.0,,,2.2 kg / ~3 L; 10/10 lines weighed from item names
+905647405,PL,Q_COMMERCE,bike,False,5.9,11,1.5,0.0,,,5.9 kg / ~11 L; 6/8 lines weighed from item names
+557813594,UA,FOOD,bike,False,0.8,3,0.8,0.0,,keep upright,0.8 kg / ~3 L; 0/1 lines weighed from item names
+548206955,NG,FOOD,bike,False,1.8,4,0.6,0.0,,keep upright,1.9 kg / ~4 L; 0/4 lines weighed from item names
+936164038,NG,FOOD,bike,False,3.2,11,0.6,0.0,,keep upright,3.1 kg / ~11 L; 0/7 lines weighed from item names
+760464174,PT,Q_COMMERCE,e-bike,True,13.3,18,5.0,0.0,,keep upright,13.3 kg / ~18 L; 11/13 lines weighed from item names; 13.3 kg is between e-bike's safe 9 kg and max 15 kg
+590263617,PL,Q_COMMERCE,bike,True,9.4,11,1.5,0.0,,,9.4 kg / ~11 L; 6/6 lines weighed from item names; 9.4 kg is between bike's safe 9 kg and max 12 kg
+531125495,BG,Q_COMMERCE,e-bike,True,13.6,17,3.0,0.0,,,13.6 kg / ~17 L; 17/18 lines weighed from item names; 13.6 kg is between e-bike's safe 9 kg and max 15 kg
+967345139,PT,Q_COMMERCE,motorbike,True,18.2,25,1.0,0.0,,keep upright,18.2 kg / ~25 L; 4/6 lines weighed from item names; 18.2 kg is between motorbike's safe 12 kg and max 20 kg
+873136047,RO,Q_COMMERCE,bike,False,1.5,2,0.1,0.0,,,1.5 kg / ~2 L; 2/2 lines weighed from item names
+801844266,PL,FOOD,bike,False,3.5,19,0.7,0.0,,,3.5 kg / ~19 L; 0/10 lines weighed from item names
+751106708,CI,Q_COMMERCE,e-bike,True,12.7,15,1.0,0.0,,,12.7 kg / ~15 L; 4/4 lines weighed from item names; 12.7 kg is between e-bike's safe 9 kg and max 15 kg
+307493489,RO,Q_COMMERCE,bike,False,2.0,6,1.0,0.0,,keep upright,2.0 kg / ~6 L; 0/2 lines weighed from item names
+572165062,UA,FOOD,bike,False,1.3,6,0.7,0.0,,keep upright,1.3 kg / ~6 L; 0/4 lines weighed from item names
+546565449,KG,FOOD,bike,False,3.2,15,1.0,0.0,,keep upright,3.2 kg / ~15 L; 1/6 lines weighed from item names
+946729235,NG,FOOD,bike,False,0.9,3,0.3,0.0,,,0.9 kg / ~3 L; 0/2 lines weighed from item names
+769670691,GE,Q_COMMERCE,bike,False,8.3,20,1.0,0.0,,keep upright,8.3 kg / ~20 L; 0/13 lines weighed from item names
+391034870,MA,Q_COMMERCE,e-bike,True,13.9,29,1.2,0.0,,keep upright,13.9 kg / ~29 L; 18/23 lines weighed from item names; 13.9 kg is between e-bike's safe 9 kg and max 15 kg
+902245557,PL,Q_COMMERCE,e-bike,True,12.4,15,1.5,0.0,,,12.4 kg / ~15 L; 6/6 lines weighed from item names; 12.4 kg is between e-bike's safe 9 kg and max 15 kg
+845963327,NG,Q_COMMERCE,bike,False,2.2,40,0.1,0.0,,,2.1 kg / ~40 L; 1/2 lines weighed from item names
+572730616,PT,Q_COMMERCE,motorbike,True,15.3,25,1.0,0.0,,,15.3 kg / ~25 L; 17/21 lines weighed from item names; 15.3 kg is between motorbike's safe 12 kg and max 20 kg
+346902575,MA,Q_COMMERCE,bike,False,0.1,1,0.1,0.0,,,0.1 kg / ~1 L; 0/1 lines weighed from item names
+750117289,RO,FOOD,bike,False,2.0,8,0.6,0.0,,keep upright,2.0 kg / ~8 L; 0/4 lines weighed from item names
+783989664,UA,FOOD,bike,False,3.4,4,0.3,0.0,,,3.4 kg / ~4 L; 6/6 lines weighed from item names
+373851401,UA,Q_COMMERCE,bike,False,1.2,10,1.2,0.0,,keep upright,1.2 kg / ~10 L; 0/1 lines weighed from item names
+760974978,PT,Q_COMMERCE,bike,False,6.7,10,1.0,0.0,,,6.7 kg / ~10 L; 10/12 lines weighed from item names
+892474403,ME,Q_COMMERCE,bike,True,11.9,17,1.5,0.0,age-restricted (ID check),keep upright,11.9 kg / ~17 L; 7/9 lines weighed from item names; 11.9 kg is between bike's safe 9 kg and max 12 kg
+972118531,NG,Q_COMMERCE,bike,True,11.0,15,0.8,0.0,age-restricted (ID check),,11.0 kg / ~15 L; 3/4 lines weighed from item names; 11.0 kg is between bike's safe 9 kg and max 12 kg
+980049383,NG,FOOD,car,False,18.7,66,0.8,0.0,,keep upright,18.7 kg / ~66 L; 0/1 lines weighed from item names
+796806123,PT,Q_COMMERCE,bike,True,9.6,12,9.0,0.0,,,9.7 kg / ~12 L; 4/4 lines weighed from item names; 9.7 kg is between bike's safe 9 kg and max 12 kg
+668259617,RO,Q_COMMERCE,bike,False,0.2,2,0.1,0.0,,,0.2 kg / ~2 L; 2/4 lines weighed from item names
+924418123,PL,Q_COMMERCE,bike,True,10.9,14,2.1,0.0,,keep upright,10.9 kg / ~14 L; 5/6 lines weighed from item names; 10.9 kg is between bike's safe 9 kg and max 12 kg
+989559705,PL,Q_COMMERCE,car,False,31.2,45,1.2,0.0,,keep upright,31.2 kg / ~45 L; 56/61 lines weighed from item names
+493736236,UA,Q_COMMERCE,bike,True,5.3,6,1.0,0.0,age-restricted (ID check),,5.3 kg / ~6 L; 5/5 lines weighed from item names
+399946205,PT,Q_COMMERCE,bike,False,1.7,15,0.2,0.0,,,1.7 kg / ~15 L; 0/4 lines weighed from item names
+715861934,PT,Q_COMMERCE,bike,False,9.0,11,1.0,0.0,,,9.0 kg / ~11 L; 16/16 lines weighed from item names
+676725578,KG,Q_COMMERCE,bike,False,4.2,6,0.9,0.0,,keep upright,4.2 kg / ~6 L; 4/7 lines weighed from item names
+715268961,RO,Q_COMMERCE,bike,True,11.3,15,1.2,0.0,,keep upright,11.3 kg / ~15 L; 11/15 lines weighed from item names; 11.3 kg is between bike's safe 9 kg and max 12 kg
+566972342,CI,FOOD,bike,False,1.1,5,0.5,0.0,,keep upright,1.1 kg / ~5 L; 0/3 lines weighed from item names
+666031200,MA,Q_COMMERCE,bike,False,0.1,1,0.1,0.0,,,0.1 kg / ~1 L; 0/1 lines weighed from item names
+901061772,UA,Q_COMMERCE,bike,False,4.3,9,1.0,0.0,,keep upright,4.3 kg / ~9 L; 9/14 lines weighed from item names
+822579438,NG,Q_COMMERCE,bike,False,0.2,3,0.1,0.0,,,0.2 kg / ~3 L; 1/4 lines weighed from item names
+477281622,RO,Q_COMMERCE,bike,False,5.5,7,0.2,0.0,,,5.5 kg / ~7 L; 4/4 lines weighed from item names
+488697808,NG,FOOD,bike,False,3.0,6,1.5,0.0,,keep upright,3.0 kg / ~6 L; 0/2 lines weighed from item names
+630564511,PL,Q_COMMERCE,bike,False,5.3,7,2.0,0.0,,,5.3 kg / ~7 L; 13/14 lines weighed from item names
+360242245,UA,FOOD,bike,False,2.2,19,0.2,0.0,,,2.2 kg / ~19 L; 0/10 lines weighed from item names
+904730617,RO,Q_COMMERCE,e-bike,True,12.2,16,2.0,0.0,,keep upright,12.2 kg / ~16 L; 8/9 lines weighed from item names; 12.2 kg is between e-bike's safe 9 kg and max 15 kg
+897618449,NG,Q_COMMERCE,bike,False,0.4,10,0.2,0.0,,,0.4 kg / ~10 L; 2/3 lines weighed from item names
+385063384,PL,Q_COMMERCE,motorbike,False,11.7,10,11.3,0.0,,keep upright,11.7 kg / ~10 L; 2/3 lines weighed from item names
+517915635,NG,FOOD,bike,False,1.8,5,0.3,0.0,,,1.8 kg / ~5 L; 0/1 lines weighed from item names
+323726861,PT,Q_COMMERCE,car,False,21.8,29,1.5,0.0,,keep upright,21.8 kg / ~29 L; 30/33 lines weighed from item names
+696412310,RO,FOOD,bike,False,4.4,17,0.6,0.0,,keep upright,4.5 kg / ~17 L; 0/4 lines weighed from item names
+759895262,GE,Q_COMMERCE,bike,True,9.5,20,1.0,0.0,,keep upright,9.5 kg / ~20 L; 1/13 lines weighed from item names; 9.5 kg is between bike's safe 9 kg and max 12 kg
+816903703,CI,Q_COMMERCE,e-bike,True,12.6,16,5.0,0.0,,,12.6 kg / ~16 L; 4/5 lines weighed from item names; 12.6 kg is between e-bike's safe 9 kg and max 15 kg
+743717319,PL,Q_COMMERCE,bike,True,11.0,18,1.8,0.0,,keep upright,11.1 kg / ~18 L; 1/2 lines weighed from item names; 11.1 kg is between bike's safe 9 kg and max 12 kg
+407520173,RO,Q_COMMERCE,bike,False,4.6,6,0.5,0.0,,,4.6 kg / ~6 L; 11/11 lines weighed from item names
+906763161,UA,Q_COMMERCE,car,False,7.7,188,3.0,0.0,,,7.7 kg / ~188 L; 0/13 lines weighed from item names
+339081171,UA,Q_COMMERCE,car,False,22.2,33,1.5,0.0,,keep upright,22.2 kg / ~33 L; 22/27 lines weighed from item names
+929898625,NG,Q_COMMERCE,bike,False,0.1,2,0.1,0.0,,,0.1 kg / ~2 L; 0/2 lines weighed from item names
+513386587,RO,Q_COMMERCE,bike,True,5.7,11,3.0,0.0,age-restricted (ID check),,5.7 kg / ~11 L; 6/7 lines weighed from item names
+326816559,PL,Q_COMMERCE,bike,True,10.8,15,1.3,0.0,,,10.8 kg / ~15 L; 18/20 lines weighed from item names; 10.8 kg is between bike's safe 9 kg and max 12 kg
+358993841,NG,FOOD,bike,False,2.2,5,0.6,0.0,,,2.2 kg / ~5 L; 0/5 lines weighed from item names
+822692106,PT,Q_COMMERCE,bike,True,10.5,16,1.5,0.0,,keep upright,10.5 kg / ~16 L; 13/16 lines weighed from item names; 10.5 kg is between bike's safe 9 kg and max 12 kg
+973081256,MA,Q_COMMERCE,bike,False,1.0,1,0.1,0.0,,,1.0 kg / ~1 L; 1/1 lines weighed from item names
+857864026,PT,Q_COMMERCE,split: car + motorbike,True,98.2,118,1.0,0.0,abnormal quantity,keep upright,98.2 kg / ~118 L; 5/6 lines weighed from item names; over one car's 80 kg / 300 L
+356169758,RO,Q_COMMERCE,bike,False,7.1,12,0.8,0.0,,,7.1 kg / ~12 L; 10/13 lines weighed from item names
+534394639,KG,Q_COMMERCE,bike,False,2.7,3,0.9,0.0,,,2.7 kg / ~3 L; 3/3 lines weighed from item names
+834083278,NG,FOOD,bike,False,3.1,9,0.6,0.0,,keep upright,3.1 kg / ~9 L; 0/5 lines weighed from item names
+971745596,UA,FOOD,bike,False,0.4,1,0.3,0.0,,,0.3 kg / ~1 L; 0/1 lines weighed from item names
+750544807,PL,Q_COMMERCE,e-bike,True,13.9,21,2.5,0.0,,keep upright,13.9 kg / ~21 L; 22/26 lines weighed from item names; 13.9 kg is between e-bike's safe 9 kg and max 15 kg
+630635134,RS,Q_COMMERCE,bike,False,8.1,20,4.0,0.0,,,8.1 kg / ~20 L; 2/4 lines weighed from item names
+386921789,PT,Q_COMMERCE,bike,False,5.4,7,1.0,0.0,,,5.4 kg / ~7 L; 11/11 lines weighed from item names
+338090823,RS,FOOD,bike,False,1.1,3,0.3,0.0,,,1.1 kg / ~3 L; 1/4 lines weighed from item names
+937422846,NG,Q_COMMERCE,call customer,True,50.7,61,25.0,0.0,heavy item,,"50.7 kg / ~61 L; 3/3 lines weighed from item names; 'Royal Stallion Parboiled Rice 25kg' is 25 kg, over the 15 kg carry limit"
+476309192,UA,Q_COMMERCE,motorbike,True,17.9,25,5.0,0.0,,,17.9 kg / ~25 L; 27/31 lines weighed from item names; 17.9 kg is between motorbike's safe 12 kg and max 20 kg
+585868189,NG,Q_COMMERCE,e-bike,True,12.5,17,6.9,0.0,,,12.5 kg / ~17 L; 10/11 lines weighed from item names; 12.5 kg is between e-bike's safe 9 kg and max 15 kg
+418945405,NG,Q_COMMERCE,e-bike,True,12.8,17,1.0,0.0,,,12.8 kg / ~17 L; 7/8 lines weighed from item names; 12.8 kg is between e-bike's safe 9 kg and max 15 kg
+780405789,UA,FOOD,bike,False,1.6,4,0.5,0.0,,,1.6 kg / ~4 L; 0/4 lines weighed from item names
+398314784,UA,Q_COMMERCE,bike,False,4.2,5,1.0,0.0,,,4.2 kg / ~5 L; 2/4 lines weighed from item names
+411193672,RO,Q_COMMERCE,bike,True,6.6,11,1.5,0.0,age-restricted (ID check),,6.6 kg / ~11 L; 10/12 lines weighed from item names
+644954945,PL,Q_COMMERCE,bike,False,5.0,6,0.5,0.0,,,5.0 kg / ~6 L; 1/1 lines weighed from item names
+507012451,TN,Q_COMMERCE,bike,False,6.6,10,1.0,0.0,,keep upright,6.6 kg / ~10 L; 11/16 lines weighed from item names
+939180629,MA,Q_COMMERCE,car,False,25.2,30,5.0,0.0,,,25.2 kg / ~30 L; 3/3 lines weighed from item names
+439639405,RO,Q_COMMERCE,car,False,31.7,41,12.0,0.0,,,31.7 kg / ~41 L; 9/11 lines weighed from item names
+347731064,PL,Q_COMMERCE,bike,True,9.0,11,1.8,0.0,zero total,,9.0 kg / ~11 L; 17/17 lines weighed from item names; 9.0 kg is between bike's safe 9 kg and max 12 kg
+801012981,GE,Q_COMMERCE,bike,False,1.5,5,0.3,0.0,,,1.5 kg / ~5 L; 0/1 lines weighed from item names
+888927721,RS,Q_COMMERCE,bike,False,3.4,4,1.2,0.0,,keep upright,3.5 kg / ~4 L; 1/2 lines weighed from item names
+679296506,RO,Q_COMMERCE,bike,True,0.6,20,0.0,0.0,"age-restricted (ID check), unusual partner type",,0.6 kg / ~20 L; 0/1 lines weighed from item names
+377000303,PL,Q_COMMERCE,car,True,30.8,37,2.0,0.0,age-restricted (ID check),,30.8 kg / ~37 L; 3/3 lines weighed from item names
+644169727,UA,FOOD,bike,False,1.2,2,0.5,0.0,,keep upright,1.2 kg / ~2 L; 1/2 lines weighed from item names
+306183371,CI,FOOD,bike,False,2.7,11,0.8,0.0,,,2.7 kg / ~11 L; 0/4 lines weighed from item names
+972846943,PT,Q_COMMERCE,bike,True,7.4,11,1.0,0.0,age-restricted (ID check),,7.4 kg / ~11 L; 11/14 lines weighed from item names
+512814921,RS,FOOD,bike,False,4.6,15,0.7,0.0,,,4.6 kg / ~15 L; 1/5 lines weighed from item names
+870113421,PL,Q_COMMERCE,bike,False,3.6,14,0.6,0.0,,,3.6 kg / ~14 L; 0/7 lines weighed from item names
+995658393,PT,Q_COMMERCE,bike,True,11.8,19,2.0,0.0,,keep upright,11.8 kg / ~19 L; 8/15 lines weighed from item names; 11.8 kg is between bike's safe 9 kg and max 12 kg
+636405968,NG,FOOD,bike,False,4.2,15,0.4,0.0,,,4.2 kg / ~15 L; 0/5 lines weighed from item names
+792125531,UA,FOOD,bike,False,6.4,22,0.5,0.0,,,6.4 kg / ~22 L; 3/13 lines weighed from item names
+379892250,CI,Q_COMMERCE,e-bike,True,13.9,21,3.0,0.0,,,13.9 kg / ~21 L; 7/11 lines weighed from item names; 13.9 kg is between e-bike's safe 9 kg and max 15 kg
+934439902,RO,FOOD,bike,False,2.7,12,0.5,0.0,,keep upright,2.7 kg / ~12 L; 0/3 lines weighed from item names
+803427264,PT,Q_COMMERCE,car,False,36.5,44,9.0,0.0,,,36.5 kg / ~44 L; 13/13 lines weighed from item names
+715376610,KE,Q_COMMERCE,car,False,20.0,24,15.0,0.0,,,20.0 kg / ~24 L; 2/2 lines weighed from item names
+834055165,BG,Q_COMMERCE,bike,False,2.4,7,0.3,0.0,,,2.4 kg / ~7 L; 10/14 lines weighed from item names
+595738297,PL,Q_COMMERCE,bike,True,11.3,14,1.2,0.0,,,11.3 kg / ~14 L; 6/6 lines weighed from item names; 11.3 kg is between bike's safe 9 kg and max 12 kg
+372400370,RO,Q_COMMERCE,bike,False,0.8,2,0.7,0.0,,,0.8 kg / ~2 L; 1/2 lines weighed from item names
+555995622,UA,Q_COMMERCE,bike,True,5.9,9,2.0,0.0,age-restricted (ID check),keep upright,5.9 kg / ~9 L; 4/6 lines weighed from item names
+953099261,GE,Q_COMMERCE,bike,True,2.7,7,1.8,0.0,high-value cash,,2.7 kg / ~7 L; 0/4 lines weighed from item names
+872657801,KG,FOOD,bike,False,2.6,9,0.9,0.0,,keep upright,2.6 kg / ~9 L; 0/4 lines weighed from item names
+438154198,CI,Q_COMMERCE,bike,False,3.4,12,2.4,0.0,,,3.4 kg / ~12 L; 7/9 lines weighed from item names
+716442442,NG,FOOD,bike,False,1.6,6,0.8,0.0,,,1.6 kg / ~6 L; 0/2 lines weighed from item names
+771140005,CI,FOOD,bike,False,3.0,7,1.1,0.0,,keep upright,3.0 kg / ~7 L; 0/4 lines weighed from item names
+839580678,AM,FOOD,bike,False,3.0,15,0.4,0.0,,keep upright,3.0 kg / ~15 L; 0/4 lines weighed from item names
+344681912,RO,Q_COMMERCE,car,False,15.4,150,15.0,0.0,,,15.3 kg / ~150 L; 2/3 lines weighed from item names
+739152398,GE,FOOD,bike,False,2.0,9,0.5,0.0,,,2.0 kg / ~9 L; 0/4 lines weighed from item names
+434489883,PL,Q_COMMERCE,bike,False,8.6,11,1.8,0.0,,,8.6 kg / ~11 L; 19/20 lines weighed from item names
+876214943,UA,FOOD,bike,False,1.5,4,0.5,0.0,,keep upright,1.5 kg / ~4 L; 0/4 lines weighed from item names
+830259423,PL,Q_COMMERCE,bike,True,7.6,9,0.5,0.0,age-restricted (ID check),,7.6 kg / ~9 L; 4/4 lines weighed from item names
+981359517,RO,FOOD,bike,False,4.8,15,1.0,0.0,,,4.8 kg / ~15 L; 0/3 lines weighed from item names
+527892667,NG,Q_COMMERCE,bike,True,9.8,40,3.5,0.0,,,9.8 kg / ~40 L; 2/4 lines weighed from item names; 9.8 kg is between bike's safe 9 kg and max 12 kg
+635077078,NG,FOOD,bike,False,6.4,16,0.5,0.0,,keep upright,6.5 kg / ~16 L; 0/8 lines weighed from item names
+852686579,PL,Q_COMMERCE,motorbike,True,18.3,22,2.5,0.0,,,18.3 kg / ~22 L; 2/2 lines weighed from item names; 18.3 kg is between motorbike's safe 12 kg and max 20 kg
+443765109,MA,Q_COMMERCE,bike,False,8.4,12,1.0,0.0,,,8.4 kg / ~12 L; 8/11 lines weighed from item names
+433101420,RS,FOOD,bike,False,2.9,18,0.6,0.0,,,2.9 kg / ~18 L; 0/6 lines weighed from item names
+432720205,RS,Q_COMMERCE,bike,False,2.0,13,1.2,0.0,,,2.0 kg / ~13 L; 3/6 lines weighed from item names
+513341841,PT,Q_COMMERCE,car,False,23.4,29,3.0,0.0,,,23.4 kg / ~29 L; 8/9 lines weighed from item names
+701294152,NG,FOOD,bike,False,0.7,3,0.7,0.0,,,0.7 kg / ~3 L; 0/1 lines weighed from item names
+683643467,PL,Q_COMMERCE,bike,False,1.7,2,0.2,0.0,,,1.7 kg / ~2 L; 17/17 lines weighed from item names
+346655536,PT,Q_COMMERCE,bike,False,7.1,10,1.5,0.0,,keep upright,7.1 kg / ~10 L; 15/16 lines weighed from item names
+880464307,NG,Q_COMMERCE,bike,False,3.5,4,2.5,0.0,,,3.5 kg / ~4 L; 2/2 lines weighed from item names
+502107612,GE,Q_COMMERCE,bike,False,1.8,22,1.0,0.0,,,1.8 kg / ~22 L; 0/6 lines weighed from item names
+549373046,RO,Q_COMMERCE,bike,False,5.4,20,2.5,0.0,,,5.4 kg / ~20 L; 2/3 lines weighed from item names
+936978817,AM,FOOD,bike,False,6.3,18,0.3,0.0,,keep upright,6.3 kg / ~18 L; 0/5 lines weighed from item names
+838217671,KE,FOOD,bike,False,1.7,9,0.4,0.0,,keep upright,1.7 kg / ~9 L; 0/7 lines weighed from item names
+578767081,NG,Q_COMMERCE,bike,False,1.8,5,1.0,0.0,,,1.8 kg / ~5 L; 2/3 lines weighed from item names
+740712814,RS,Q_COMMERCE,motorbike,True,15.1,18,9.0,0.0,,,15.1 kg / ~18 L; 3/3 lines weighed from item names; 15.1 kg is between motorbike's safe 12 kg and max 20 kg
+994427585,HR,Q_COMMERCE,bike,False,2.2,5,0.3,0.0,,,2.2 kg / ~5 L; 5/6 lines weighed from item names
+978083715,UA,Q_COMMERCE,bike,True,10.3,12,1.5,0.0,zero total,,10.3 kg / ~12 L; 17/17 lines weighed from item names; 10.3 kg is between bike's safe 9 kg and max 12 kg
+858927410,NG,Q_COMMERCE,bike,False,0.8,1,0.0,0.0,,,0.8 kg / ~1 L; 2/2 lines weighed from item names
+544576037,RO,Q_COMMERCE,bike,True,8.2,19,1.0,0.0,age-restricted (ID check),,8.2 kg / ~19 L; 10/11 lines weighed from item names
+465416134,NG,FOOD,bike,False,3.5,12,1.0,0.0,,keep upright,3.5 kg / ~12 L; 0/4 lines weighed from item names

@@ -1,0 +1,38 @@
+Item lines: 6951   with a weight: 72%
+
+By source:
+ source
+name                       4902
+unknown                    1956
+declared                     48
+name (declared ignored)      45
+
+Share of lines with a weight, by vertical:
+vertical
+FOOD          0.20
+Q_COMMERCE    0.81
+
+Share of lines with a weight, by country:
+country
+GE    0.03
+AM    0.14
+MD    0.19
+UG    0.35
+NG    0.47
+MA    0.47
+KG    0.51
+RS    0.53
+KE    0.56
+HR    0.57
+CI    0.60
+BG    0.65
+RO    0.67
+UA    0.69
+TN    0.76
+ME    0.76
+KZ    0.77
+PT    0.84
+PL    0.88
+
+Orders where EVERY line has a weight: 29%
+Declared-weight conflicts: 4

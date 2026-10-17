@@ -1,0 +1,223 @@
+Courier Applicant Agent — Knowledge Base
+
+Market: Meridia (MR) · Cities: Port Mira, Calden
+
+Fictional market created for this business case. Names, amounts,
+addresses and policies are invented.
+
+Purpose: this knowledge base lets the inbound AI agent answer questions
+from courier applicants in Meridia, resolve common onboarding blockers,
+and keep all communication consistent with the platform’s legal
+guidelines.
+
+1. Language & tone guardrails
+
+Couriers in Meridia work as independent partners. The language below
+keeps communication from implying an employment relationship.
+
+1.1 Words that must never be used
+
+-   employee
+
+-   employer
+
+-   our couriers / our riders
+
+-   shift manager
+
+-   salary
+
+1.2 Words to use
+
+-   partner
+
+-   courier
+
+-   cooperation
+
+-   opportunity
+
+-   earnings
+
+-   terms and conditions
+
+1.3 Tone
+
+Respectful, clear and friendly. Prefer informative phrasing over
+commands: “The order is available to accept”, not “Accept the order”.
+Present requirements as part of the platform’s terms (“Under the
+platform’s terms…”), not as the company acting personally (“We have
+decided…”).
+
+Never share another person’s personal data (phone numbers, IDs, account
+details) in an answer.
+
+2. About the platform
+
+Glovo is a technology platform that connects customers, partner
+businesses and couriers. Couriers carry out deliveries on a flexible
+schedule and earn income from each delivery.
+
+Courier status: couriers are independent partners, not employees. They
+choose when and for how long they are active, and may work with other
+platforms at the same time.
+
+Accounts are personal. Each account belongs to the person who registered
+it and passed the document check.
+
+Changing city: in Meridia it is not possible to change the city of
+operation. Couriers operate only in the city where they registered.
+
+3. Onboarding stages
+
+The onboarding process runs through these stages, in order:
+
+  1. Registration — the applicant creates a profile at
+  couriers.meridia.example and receives a confirmation email.
+
+  2. Document upload — the applicant uploads a profile photo, ID
+  document and, for motorbike or car, a driving licence.
+
+  3. Document review — an internal team checks the documents. No action
+  is needed from the applicant during this stage.
+
+  4. Waiting list (if applicable) — once documents are approved, the
+  applicant may wait for a slot, depending on demand in their city.
+
+  5. Equipment — the applicant confirms they have a Glovo thermal bag or
+  orders one (see section 5).
+
+  6. Rider Centre session — the applicant attends a 2-hour session on
+  how to use the courier app.
+
+  7. Account activation — the account is activated and the courier can
+  start delivering.
+
+Confirmation email not received
+
+The applicant should check their spam or junk folder. If it is still
+missing, the agent asks for the email address used to register so the
+application status can be checked.
+
+“You already have an application”
+
+The applicant already has an application in the system and should not
+create a new one. The original confirmation email contains a link to
+continue it.
+
+Known display issue
+
+Stage numbers in the onboarding portal sometimes appear out of order
+(for example, stage 1 followed by stage 3). No step has been skipped. If
+the applicant is unsure where they are, they can share a screenshot.
+
+4. Documents
+
+4.1 Eligibility
+
+-   Applicants must be 18 or older.
+
+-   Foreign nationals are accepted with a valid passport and residence
+      permit.
+
+-   Personal details on all documents must match the profile, and
+      documents must be readable and undamaged.
+
+4.2 Profile photo
+
+A clear selfie of the applicant only: face fully visible, no sunglasses,
+hats or masks, not a photo of a photo.
+
+4.3 ID document
+
+-   Meridian citizens: front and back of the national ID card.
+
+-   Foreign nationals: passport and residence permit.
+
+4.4 Driving licence
+
+Required for motorbike and car. Not required for bicycle.
+
+4.5 Tax number
+
+The Meridian tax number (MTN) has exactly 10 digits. The portal does not
+block longer or shorter entries, so it should be double-checked before
+submitting.
+
+4.6 If documents are rejected
+
+A document rejection means one or more documents need to be corrected
+and re-uploaded. The applicant receives a notification saying which
+document has an issue and why. Common reasons: blurry or covered photo,
+expired ID, details that do not match the profile.
+
+4.7 If documents are approved
+
+The next step depends on demand in the applicant’s city. Being placed on
+a waiting list is normal and does not mean there is a problem.
+
+5. Equipment
+
+Couriers provide their own vehicle and smartphone. Using a Glovo-branded
+thermal bag is required during deliveries.
+
+-   Applicants who already own a Glovo thermal bag confirm it through
+      the link in the equipment email.
+
+-   Applicants who do not have one order it through the link in the same
+      email and collect it at the Rider Centre session.
+
+A bag from another platform or a home-made bag does not meet the
+requirement.
+
+6. Earnings
+
+Earnings are calculated per delivery, based on distance, waiting time
+and any active incentives, and are shown in the courier app after each
+delivery.
+
+Earnings are paid into the MiraPay wallet registered during onboarding.
+Changing the wallet number after onboarding is a manual request through
+in-app support and can take up to 3 business days.
+
+7. Working with the app
+
+7.1 Booking slots
+
+Couriers book delivery slots in the courier app. Slots for the following
+week open every Thursday. A courier can book up to 12 hours per day.
+There are no fixed hours.
+
+7.2 Vehicles
+
+Supported vehicles in Meridia: bicycle, e-bike, motorbike and car.
+
+7.3 GPS
+
+GPS must stay on during a delivery so the order can be tracked and
+support can help if needed. Couriers choose their own route.
+
+7.4 Insurance
+
+Accident insurance applies while a courier is carrying out a delivery.
+Claims are made through in-app support.
+
+7.5 Support
+
+Applicants contact support through this agent. After activation,
+couriers use in-app support.
+
+8. Rider Centres
+
+Rider Centre sessions take place at the Port Mira centre, 14 Harbour
+Lane.
+
+  -------------------------------------------------------------------------
+  Rider Centre      Address                  City        Opening hours
+  ----------------- ------------------------ ----------- ------------------
+  Port Mira Central 41 Harbour Lane, 2nd     Port Mira   Mon–Fri
+                    floor                                09:00–17:00
+
+  Calden Hub        7 Station Road           Calden      Tue & Thu
+                                                         10:00–16:00
+  -------------------------------------------------------------------------
