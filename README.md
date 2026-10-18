@@ -1,12 +1,12 @@
-# Glovo RTO case — Brigitta Zolotovitskaia
+# Glovo RTO case: Brigitta Zolotovitskaia
 
 Two prototypes for the Glovo Real-Time Operations case. The write-ups are the docs; this repo is the code behind them.
 
 | Task | Write-up | Code |
 |---|---|---|
-| A — closing the knowledge base loop | [Task A doc](https://claude.ai/code/artifact/aae3947f-29d9-4986-8750-37685d731627) | `task_a_kb_loop/` |
-| B1 — orphan orders: approach | [B1 doc](https://claude.ai/code/artifact/bdea1132-5d98-4195-ac4a-31aa9690021e) | — |
-| B2 — orphan orders: engine and agent screen | [B2 doc](https://claude.ai/code/artifact/03caa965-6dbe-4e97-999c-f519a1a37f09) | `task_b_orphans/` |
+| A: closing the knowledge base loop | [Task A doc](https://claude.ai/code/artifact/aae3947f-29d9-4986-8750-37685d731627) | `task_a_kb_loop/` |
+| B1: orphan orders, approach | [B1 doc](https://claude.ai/code/artifact/bdea1132-5d98-4195-ac4a-31aa9690021e) | (design only) |
+| B2: orphan orders, engine and agent screen | [B2 doc](https://claude.ai/code/artifact/03caa965-6dbe-4e97-999c-f519a1a37f09) | `task_b_orphans/` |
 
 One rule runs through both: **the automation acts alone only when every check passes; a person decides everything else.**
 
@@ -24,7 +24,7 @@ export GEMINI_API_KEY=...
 export GEMINI_MODEL=gemini-3.5-flash-lite
 ```
 
-## Task A — knowledge base loop
+## Task A: knowledge base loop
 
 ```bash
 cd task_a_kb_loop
@@ -42,7 +42,7 @@ python kbloop.py --rollback 1 --push   # put version 1 back live
 - `--push` needs `ELEVENLABS_API_KEY` (Agents: write) and `ELEVENLABS_AGENT_ID_MR`. It updates the agent's **main** branch.
 - Rules (banned words, topics, markets) are in `config.json`, not in code.
 
-## Task B — orphan orders
+## Task B: orphan orders
 
 ```bash
 cd task_b_orphans
@@ -56,7 +56,7 @@ streamlit run app.py        # the agent screen
 
 - `model_cache.json` is included, so `tier3run.py` reruns without an API key or cost.
 - Vehicle limits are in `limits.json` (a conservative and an optimistic kg per vehicle), so operations can change them without code.
-- Agent actions on the screen are saved locally in `agent_actions.db` (not committed).
+- Agent actions, courier availability and edits to the model instructions are saved locally in `agent_actions.db` (not committed).
 
 ## Models used
 
